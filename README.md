@@ -100,7 +100,7 @@ Après un défi réussi, le jeu propose une **vraie phrase de la banque**, chois
 
 ### Le générateur de phrases (fichier à part)
 
-`generateur_phrases_types.html` est un outil pour l'adulte, séparé du jeu.
+[`generateur_phrases_types.html`](https://eautsu.github.io/jeu_groupe_nominal_niveau2/generateur_phrases_types.html) est un outil pour l'adulte, séparé du jeu.
 
 1. **Tirer des cartes**, comme une table de jeu (16 cartes du niveau choisi, le maximum du jeu).
 2. Le générateur **propose les phrases possibles avec ce tirage**, en respectant les étiquettes de sens (qui peut faire l'action, ce qu'on peut manger, ce qu'un adjectif peut qualifier). S'il manque une carte (un déterminant, un verbe), il la prend dans le corpus et l'indique. Pour chaque phrase : **👍 Garder** ou **👎 Non**.
@@ -108,7 +108,7 @@ Après un défi réussi, le jeu propose une **vraie phrase de la banque**, chois
 4. **Ajouter une carte libre** : le générateur vérifie si le mot est dans le corpus. Sinon, il propose de l'**ajouter au corpus** (nature, genre et nombre, sens, niveau ; verbes en -er seulement).
 5. **Enregistrer pour le jeu**, puis déposer `banque_phrases_types.json` dans le dépôt.
 
-**Une banque unique.** Le fichier `banque_phrases_types.json` du dépôt contient les phrases gardées, les phrases refusées (qui ne sont plus proposées) et les mots ajoutés au corpus. Le jeu le lit à chaque ouverture : tous les ordinateurs ont la même banque et les mêmes mots, sans rien importer. Le générateur part aussi de ce fichier et signale ce qui n'est pas encore enregistré ou déposé.
+**Une banque unique.** Le fichier `banque_phrases_types.json` du dépôt contient les phrases gardées, les phrases refusées (qui ne sont plus proposées) et les mots ajoutés au corpus. Le jeu le lit à chaque ouverture : tous les ordinateurs ont la même banque et les mêmes mots, sans rien importer. Le générateur part aussi de ce fichier et signale ce qui n'est pas encore enregistré ou déposé. Si des phrases de la banque commune manquent dans la liste (par exemple dans un autre navigateur), il le signale et propose de les remettre avant d'enregistrer. Une phrase retirée de la liste passe dans les phrases refusées.
 
 **Les étiquettes de sens** (catégorie de chaque nom, sujets et compléments de chaque verbe, noms que chaque adjectif peut qualifier) sont une proposition, à valider dans `etiquettes_de_sens.xlsx`.
 
