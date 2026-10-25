@@ -1,0 +1,10020 @@
+{
+ "phrases": [
+  {
+   "t": "Ce matin, {S} {V}.",
+   "c": "i",
+   "S": [
+    "mon",
+    "âne"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Ce matin, mon âne a sauté.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Après le goûter, {S} {V} {O} là-bas.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "porter",
+   "vf": "ont porté",
+   "ex": "Après le goûter, des mères ont porté une carotte là-bas.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "carotte"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} demain matin.",
+   "c": "a",
+   "S": [
+    "les",
+    "bottes"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Les bottes seront blanches demain matin.",
+   "lv": "CE1",
+   "A": "blanches",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "pull"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Le pull est rayé.",
+   "lv": "CE1",
+   "A": "rayé"
+  },
+  {
+   "t": "Ensuite, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "table"
+   ],
+   "V": "être",
+   "vf": "a été",
+   "ex": "Ensuite, une table a été rayée.",
+   "lv": "CE1",
+   "A": "rayée"
+  },
+  {
+   "t": "Ensuite, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "canapé",
+    "rayé"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Ensuite, le canapé rayé sera sec.",
+   "lv": "CE1",
+   "A": "sec"
+  },
+  {
+   "t": "{S} {V} vers {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "voiture",
+    "rouge"
+   ],
+   "V": "rouler",
+   "vf": "roule",
+   "ex": "Une voiture rouge roule vers la ville.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "ville"
+   ],
+   "pp": "vers",
+   "p": 1
+  },
+  {
+   "t": "Ensuite, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "pull"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Ensuite, le pull sera sale.",
+   "lv": "CE1",
+   "A": "sale"
+  },
+  {
+   "t": "{S} {V} à {P} demain.",
+   "c": "i",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Les familles iront à la plage demain.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "plage"
+   ],
+   "pp": "à",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "enfant",
+    "sale"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Demain, un enfant sale ira dans la baignoire.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "baignoire"
+   ],
+   "pp": "dans",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} dans la baignoire.",
+   "c": "i",
+   "S": [
+    "une",
+    "abeille"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Demain, une abeille ira dans la baignoire.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} demain matin.",
+   "c": "a",
+   "S": [
+    "un",
+    "livre"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Un livre sera mouillé demain matin.",
+   "lv": "CE1",
+   "A": "mouillé",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} vite sous l’escalier.",
+   "c": "i",
+   "S": [
+    "une",
+    "abeille"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "Une abeille allait vite sous l’escalier.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "pains"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Hier, les pains étaient bons.",
+   "lv": "CE1",
+   "A": "bons",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Hier, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "pull",
+    "mouillé"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Hier, le pull mouillé était lourd.",
+   "lv": "CE1",
+   "A": "lourd",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} ensemble au marché.",
+   "c": "i",
+   "S": [
+    "nos",
+    "familles"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Nos familles iront ensemble au marché.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} hier.",
+   "c": "a",
+   "S": [
+    "le",
+    "pain"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Le pain était bon hier.",
+   "lv": "CE1",
+   "A": "bon",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} sans bruit derrière {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "chèvre"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "La chèvre a sauté sans bruit derrière la cabane.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "cabane"
+   ],
+   "pp": "derrière",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} à la gare.",
+   "c": "i",
+   "S": [
+    "un",
+    "chat"
+   ],
+   "V": "aller",
+   "vf": "est allé",
+   "ex": "Hier soir, un chat est allé à la gare.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "la",
+    "classe"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Pendant la récréation, la classe a joué loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} à porter.",
+   "c": "a",
+   "S": [
+    "un",
+    "pain"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Un pain sera lourd à porter.",
+   "lv": "CE1",
+   "A": "lourd"
+  },
+  {
+   "t": "{S} {V} tout près.",
+   "c": "i",
+   "S": [
+    "le",
+    "chat"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Le chat a joué tout près.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} devant la fenêtre.",
+   "c": "i",
+   "S": [
+    "la",
+    "classe"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "La classe va devant la fenêtre.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "classeurs"
+   ],
+   "V": "tomber",
+   "vf": "tombaient",
+   "ex": "Des classeurs tombaient sur le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} derrière {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "classeurs",
+    "lourds"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Les classeurs lourds tomberont derrière le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "derrière",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} devant {P}.",
+   "c": "i",
+   "S": [
+    "le",
+    "cerf"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Le cerf sautera devant les voitures.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "voitures"
+   ],
+   "pp": "devant",
+   "p": 1
+  },
+  {
+   "t": "Plus tard, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "casquette"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Plus tard, une casquette sera sale.",
+   "lv": "CE1",
+   "A": "sale",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "renard"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Un renard a sauté sur les poules.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "poules"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} avec plaisir dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "cochons"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Les cochons joueront avec plaisir dans le jardin.",
+   "lv": "CE2",
+   "P": [
+    "le",
+    "jardin"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} sur {P}.",
+   "c": "t",
+   "S": [
+    "un",
+    "chat"
+   ],
+   "V": "chanter",
+   "vf": "chantera",
+   "ex": "Un chat chantera des chansons sur le canapé.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "chansons"
+   ],
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sur"
+  },
+  {
+   "t": "Hier, {S} {V} derrière l’armoire.",
+   "c": "i",
+   "S": [
+    "le",
+    "renard"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "Hier, le renard jouait derrière l’armoire.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} maintenant.",
+   "c": "a",
+   "S": [
+    "les",
+    "feutres"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les feutres sont secs maintenant.",
+   "lv": "CE1",
+   "A": "secs",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {O} sous le canapé.",
+   "c": "t",
+   "S": [
+    "une",
+    "enfant"
+   ],
+   "V": "regarder",
+   "vf": "a regardé",
+   "ex": "Une enfant a regardé des pierres sous le canapé.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pierres"
+   ]
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "cahiers"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "La semaine dernière, les cahiers étaient sales.",
+   "lv": "CE1",
+   "A": "sales",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "pierre",
+    "mouillée"
+   ],
+   "V": "rouler",
+   "vf": "roule",
+   "ex": "Aujourd’hui, une pierre mouillée roule sous le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sous",
+   "tps": "présent",
+   "tw": "aujourd’hui",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "cahiers"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Hier, les cahiers étaient propres.",
+   "lv": "CE1",
+   "A": "propres",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} {A} demain.",
+   "c": "a",
+   "S": [
+    "les",
+    "cercles"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Les cercles seront beaux demain.",
+   "lv": "CE1",
+   "A": "beaux",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Maintenant, {S} {V} près de la cabane.",
+   "c": "i",
+   "S": [
+    "un",
+    "enfant",
+    "mouillé"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "Maintenant, un enfant mouillé va près de la cabane.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} avec {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "vache"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "La vache a sauté avec un enfant.",
+   "lv": "CE1",
+   "P": [
+    "un",
+    "enfant"
+   ],
+   "pp": "avec"
+  },
+  {
+   "t": "{S} {V} trop {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "gants"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Les gants étaient trop larges.",
+   "lv": "CE1",
+   "A": "larges"
+  },
+  {
+   "t": "{S} {V} pendant la récréation.",
+   "c": "i",
+   "S": [
+    "une",
+    "enfant"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Une enfant joue pendant la récréation.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "vache"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Une vache a sauté dans la forêt.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "forêt"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "la",
+    "vache"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "La vache allait loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Parfois, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "l’",
+    "enfant"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Parfois, l’enfant était propre.",
+   "lv": "CE1",
+   "A": "propre"
+  },
+  {
+   "t": "{S} {V} souvent {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "vache"
+   ],
+   "V": "regarder",
+   "vf": "regarde",
+   "ex": "La vache regarde souvent les trains.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "trains"
+   ]
+  },
+  {
+   "t": "{S} {V} toujours {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "vache"
+   ],
+   "V": "regarder",
+   "vf": "regarde",
+   "ex": "La vache regarde toujours les trains.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "trains"
+   ]
+  },
+  {
+   "t": "{S} {V} en silence au bord du lac.",
+   "c": "i",
+   "S": [
+    "une",
+    "enfant"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Une enfant jouera en silence au bord du lac.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} au bord de la rivière.",
+   "c": "i",
+   "S": [
+    "un",
+    "enfant"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "La semaine prochaine, un enfant sautera au bord de la rivière.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "la semaine prochaine",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} au fond de la cour.",
+   "c": "i",
+   "S": [
+    "les",
+    "cahiers"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Les cahiers sont tombés au fond de la cour.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "vache"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Bientôt, une vache sera propre.",
+   "lv": "CE1",
+   "A": "propre",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V}.",
+   "c": "i",
+   "S": [
+    "la",
+    "vache"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Aujourd’hui, la vache joue.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Bientôt, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "sucre"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Bientôt, le sucre sera bon.",
+   "lv": "CE1",
+   "A": "bon",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "Hier, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "moutons"
+   ],
+   "V": "porter",
+   "vf": "ont porté",
+   "ex": "Hier, des moutons ont porté un escalier.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "escalier"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} au bord de la mer.",
+   "c": "i",
+   "S": [
+    "le",
+    "jouet",
+    "drôle"
+   ],
+   "V": "rouler",
+   "vf": "roulera",
+   "ex": "Le jouet drôle roulera au bord de la mer.",
+   "lv": "CE2",
+   "p": 1
+  },
+  {
+   "t": "D’abord, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "tartes"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "D’abord, des tartes étaient fines.",
+   "lv": "CE1",
+   "A": "fines"
+  },
+  {
+   "t": "{S} {V} vers {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "voiture"
+   ],
+   "V": "rouler",
+   "vf": "a roulé",
+   "ex": "La voiture a roulé vers l’école.",
+   "lv": "CE1",
+   "P": [
+    "l’",
+    "école"
+   ],
+   "pp": "vers",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "robes"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Demain, les robes seront courtes.",
+   "lv": "CE1",
+   "A": "courtes",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} vers la porte.",
+   "c": "i",
+   "S": [
+    "le",
+    "jouet",
+    "drôle"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Le jouet drôle est tombé vers la porte.",
+   "lv": "CE2",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "dossier"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Le dossier est drôle.",
+   "lv": "CE2",
+   "A": "drôle"
+  },
+  {
+   "t": "Maintenant, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "mon",
+    "cartable"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Maintenant, mon cartable est drôle.",
+   "lv": "CE2",
+   "A": "drôle",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {A} maintenant.",
+   "c": "a",
+   "S": [
+    "les",
+    "manteaux"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les manteaux sont secs maintenant.",
+   "lv": "CE1",
+   "A": "secs",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "enfants"
+   ],
+   "V": "avoir",
+   "vf": "ont",
+   "ex": "Les enfants ont les chaussettes mouillées.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "chaussettes",
+    "mouillées"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} cet hiver.",
+   "c": "t",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "porter",
+   "vf": "porteront",
+   "ex": "Les élèves porteront des bottes cet hiver.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "bottes"
+   ]
+  },
+  {
+   "t": "Demain matin, {S} {V} au fond du jardin.",
+   "c": "i",
+   "S": [
+    "des",
+    "moutons"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Demain matin, des moutons joueront au fond du jardin.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} plus {A} il y a longtemps.",
+   "c": "a",
+   "S": [
+    "des",
+    "tartes"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Des tartes étaient plus fines il y a longtemps.",
+   "lv": "CE1",
+   "A": "fines",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} {O} cet été.",
+   "c": "t",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "porter",
+   "vf": "porteront",
+   "ex": "Les élèves porteront des robes bleues cet été.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "robes",
+    "bleues"
+   ]
+  },
+  {
+   "t": "En ce moment, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "le",
+    "canapé"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "En ce moment, le canapé est dehors.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} vite.",
+   "c": "i",
+   "S": [
+    "les",
+    "moutons"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Les moutons joueront vite.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} vite.",
+   "c": "i",
+   "S": [
+    "le",
+    "jouet"
+   ],
+   "V": "rouler",
+   "vf": "roulera",
+   "ex": "Le jouet roulera vite.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "bonnets"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Les bonnets tombent sur le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "En ce moment, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "un",
+    "cartable"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "En ce moment, un cartable est mince.",
+   "lv": "CE1",
+   "A": "mince",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "moutons"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Des moutons jouaient dans la chambre.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "chambre"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "moutons"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "Les moutons ont joué dans la maison.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "maison"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} derrière {P}.",
+   "c": "i",
+   "S": [
+    "le",
+    "dossier"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Hier soir, le dossier est tombé derrière le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "derrière",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "bonnets"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Aujourd’hui, les bonnets sont larges.",
+   "lv": "CE1",
+   "A": "larges",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Maintenant, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "canapé"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Maintenant, le canapé est mouillé.",
+   "lv": "CE1",
+   "A": "mouillé",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {O} pendant les vacances.",
+   "c": "t",
+   "S": [
+    "des",
+    "moutons"
+   ],
+   "V": "trouver",
+   "vf": "trouvaient",
+   "ex": "Des moutons trouvaient des bonnets pendant les vacances.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "bonnets"
+   ]
+  },
+  {
+   "t": "{S} {V} près de {P}.",
+   "c": "i",
+   "S": [
+    "le",
+    "bonnet"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Le bonnet est tombé près de la gare.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "gare"
+   ],
+   "pp": "près de",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} {A} à porter.",
+   "c": "a",
+   "S": [
+    "le",
+    "canapé"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Demain, le canapé sera lourd à porter.",
+   "lv": "CE1",
+   "A": "lourd",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} {A} après le goûter.",
+   "c": "a",
+   "S": [
+    "le",
+    "cartable"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Le cartable était sec après le goûter.",
+   "lv": "CE1",
+   "A": "sec"
+  },
+  {
+   "t": "{S} {V} en silence.",
+   "c": "i",
+   "S": [
+    "les",
+    "moutons"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "Les moutons ont joué en silence.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {O} dans {P}.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "ranger",
+   "vf": "range",
+   "ex": "Le garçon range sa trousse bleue dans sa chambre.",
+   "lv": "CE2",
+   "O": [
+    "sa",
+    "trousse",
+    "bleue"
+   ],
+   "P": [
+    "sa",
+    "chambre"
+   ],
+   "pp": "dans"
+  },
+  {
+   "t": "{S} {V} {O} avec {P}.",
+   "c": "t",
+   "S": [
+    "l’",
+    "élève"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "L’élève dessine un cercle avec le compas.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "cercle"
+   ],
+   "P": [
+    "le",
+    "compas"
+   ],
+   "pp": "avec"
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "compas"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "Le compas dessine un cercle.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "cercle"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} à porter.",
+   "c": "a",
+   "S": [
+    "les",
+    "fromages"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Les fromages étaient lourds à porter.",
+   "lv": "CE1",
+   "A": "lourds"
+  },
+  {
+   "t": "Demain, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "ma",
+    "mère"
+   ],
+   "V": "faire",
+   "vf": "fera",
+   "ex": "Demain, ma mère fera des fromages secs.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "fromages",
+    "secs"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "la",
+    "tarte"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "La tarte est ronde.",
+   "lv": "CE1",
+   "A": "ronde"
+  },
+  {
+   "t": "{S} {V} sans bruit au bord de la rivière.",
+   "c": "i",
+   "S": [
+    "une",
+    "biche"
+   ],
+   "V": "aller",
+   "vf": "est allée",
+   "ex": "Une biche est allée sans bruit au bord de la rivière.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "biche"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "La biche sautera dans la maison.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "maison"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "chat",
+    "mouillé"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Le chat mouillé sera triste.",
+   "lv": "CE1",
+   "A": "triste"
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "chat"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Le chat est mouillé.",
+   "lv": "CE1",
+   "A": "mouillé"
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "chat"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Le chat est mince.",
+   "lv": "CE1",
+   "A": "mince"
+  },
+  {
+   "t": "{S} {V} {A} en ce moment.",
+   "c": "a",
+   "S": [
+    "une",
+    "trousse"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Une trousse est mince en ce moment.",
+   "lv": "CE1",
+   "A": "mince",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} {O} pour le goûter.",
+   "c": "t",
+   "S": [
+    "l’",
+    "élève"
+   ],
+   "V": "manger",
+   "vf": "mangera",
+   "ex": "L’élève mangera une pomme pour le goûter.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "pomme"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Le garçon joue du violon.",
+   "lv": "CE1",
+   "O": [
+    "du",
+    "violon"
+   ]
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "ma",
+    "règle"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Ma règle est bleue.",
+   "lv": "CE1",
+   "A": "bleue"
+  },
+  {
+   "t": "{S} {V} vers {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "voitures"
+   ],
+   "V": "rouler",
+   "vf": "roulent",
+   "ex": "Les voitures roulent vers la ville.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "ville"
+   ],
+   "pp": "vers",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "règle"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "Hier soir, la règle tombait sous la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sous",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Ensuite, {S} {V} trop {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "manteau"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Ensuite, le manteau était trop court.",
+   "lv": "CE1",
+   "A": "court"
+  },
+  {
+   "t": "{S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "chocolat"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Un chocolat est tombé sous le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sous",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "maisons"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Bientôt, les maisons seront sèches.",
+   "lv": "CE1",
+   "A": "sèches",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "{S} {V} {O} tout près.",
+   "c": "t",
+   "S": [
+    "le",
+    "cochon"
+   ],
+   "V": "regarder",
+   "vf": "regardera",
+   "ex": "Le cochon regardera un bâton tout près.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "bâton"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "chansons"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Hier, les chansons étaient bonnes.",
+   "lv": "CE1",
+   "A": "bonnes",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} {A} après la pluie.",
+   "c": "a",
+   "S": [
+    "les",
+    "maisons"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les maisons sont mouillées après la pluie.",
+   "lv": "CE1",
+   "A": "mouillées"
+  },
+  {
+   "t": "Demain matin, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "stylos"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Demain matin, des stylos tomberont sous le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sous",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} dehors.",
+   "c": "t",
+   "S": [
+    "un",
+    "cochon"
+   ],
+   "V": "regarder",
+   "vf": "a regardé",
+   "ex": "Un cochon a regardé les robes dehors.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "robes"
+   ]
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "dossier"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Le dossier était mince.",
+   "lv": "CE1",
+   "A": "mince"
+  },
+  {
+   "t": "{S} {V} à {P} tous les jours.",
+   "c": "i",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "aller",
+   "vf": "vont",
+   "ex": "Les garçons vont à la ville tous les jours.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "ville"
+   ],
+   "pp": "à",
+   "p": 1
+  },
+  {
+   "t": "En ce moment, {S} {V} vite {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "enfants"
+   ],
+   "V": "chercher",
+   "vf": "cherchent",
+   "ex": "En ce moment, des enfants cherchent vite des histoires.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "histoires"
+   ],
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} demain dans {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "enfants"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Des enfants joueront demain dans la classe.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "classe"
+   ],
+   "pp": "dans",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "dessiner",
+   "vf": "dessineront",
+   "ex": "Les élèves dessineront dans le carnet bleu.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "carnet",
+    "bleu"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "ma",
+    "mère"
+   ],
+   "V": "aimer",
+   "vf": "aime",
+   "ex": "Ma mère aime la tarte fine.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "tarte",
+    "fine"
+   ]
+  },
+  {
+   "t": "{S} {V} trop.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "Les élèves mangent trop.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} près de {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "Aujourd’hui, les élèves sautent près de la forêt.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "forêt"
+   ],
+   "pp": "près de",
+   "tps": "présent",
+   "tw": "aujourd’hui",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves",
+    "sages"
+   ],
+   "V": "écrire",
+   "vf": "écriront",
+   "ex": "Les élèves sages écriront dans le cahier bleu.",
+   "lv": "CM1",
+   "P": [
+    "le",
+    "cahier",
+    "bleu"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "cahier",
+    "rouge"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Le cahier rouge est fin.",
+   "lv": "CE1",
+   "A": "fin"
+  },
+  {
+   "t": "{S} {V} {A} pendant la récréation.",
+   "c": "a",
+   "S": [
+    "cette",
+    "école"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Cette école est calme pendant la récréation.",
+   "lv": "CM1",
+   "A": "calme"
+  },
+  {
+   "t": "{S} {V} {O} pendant la récréation.",
+   "c": "t",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "faire",
+   "vf": "font",
+   "ex": "Les élèves font des histoires pendant la récréation.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "histoires"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "faire",
+   "vf": "font",
+   "ex": "Les élèves font du bruit.",
+   "lv": "CE2",
+   "O": [
+    "du",
+    "bruit"
+   ]
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "école",
+    "vide"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Une école vide est calme.",
+   "lv": "CM2",
+   "A": "calme"
+  },
+  {
+   "t": "Demain, {S} {V} {O} là-bas.",
+   "c": "t",
+   "S": [
+    "des",
+    "élèves",
+    "sages"
+   ],
+   "V": "écrire",
+   "vf": "écriront",
+   "ex": "Demain, des élèves sages écriront des histoires là-bas.",
+   "lv": "CM1",
+   "O": [
+    "des",
+    "histoires"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} {A} aujourd’hui.",
+   "c": "a",
+   "S": [
+    "un",
+    "ballon"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Un ballon est propre aujourd’hui.",
+   "lv": "CE1",
+   "A": "propre",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Plus tard, {S} {V} derrière {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Plus tard, les élèves tomberont derrière le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "derrière",
+   "tps": "futur",
+   "tw": "plus tard",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} derrière {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Les élèves sont tombés derrière le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "derrière",
+   "p": 1
+  },
+  {
+   "t": "Plus tard, {S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Plus tard, les élèves sauteront sur le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sur",
+   "tps": "futur",
+   "tw": "plus tard",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} au marché.",
+   "c": "i",
+   "S": [
+    "des",
+    "élèves",
+    "sages"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Bientôt, des élèves sages iront au marché.",
+   "lv": "CM1",
+   "tps": "futur",
+   "tw": "bientôt",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} plus tard.",
+   "c": "a",
+   "S": [
+    "le",
+    "feutre"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Le feutre sera rouge plus tard.",
+   "lv": "CE1",
+   "A": "rouge",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Maintenant, {S} {V} {O} doucement.",
+   "c": "t",
+   "S": [
+    "une",
+    "élève",
+    "propre"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "Maintenant, une élève propre dessine un canapé doucement.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "canapé"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "Demain matin, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "élèves"
+   ],
+   "V": "avoir",
+   "vf": "auront",
+   "ex": "Demain matin, les élèves auront des chaussures rouges.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "chaussures",
+    "rouges"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} souvent {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "élèves",
+    "sages"
+   ],
+   "V": "avoir",
+   "vf": "auront",
+   "ex": "Les élèves sages auront souvent des cahiers propres.",
+   "lv": "CM1",
+   "O": [
+    "des",
+    "cahiers",
+    "propres"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "l’",
+    "élève",
+    "sage"
+   ],
+   "V": "avoir",
+   "vf": "a",
+   "ex": "L’élève sage a un cahier propre.",
+   "lv": "CM1",
+   "O": [
+    "un",
+    "cahier",
+    "propre"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} plus tard.",
+   "c": "a",
+   "S": [
+    "la",
+    "ville"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "La ville sera propre plus tard.",
+   "lv": "CE1",
+   "A": "propre",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Demain, {S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Demain, les mères iront dans la ville propre.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "ville",
+    "propre"
+   ],
+   "pp": "dans",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "élève"
+   ],
+   "V": "trouver",
+   "vf": "trouvait",
+   "ex": "Un élève trouvait le canapé propre.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "canapé",
+    "propre"
+   ]
+  },
+  {
+   "t": "Hier soir, {S} {V} sous l’escalier.",
+   "c": "i",
+   "S": [
+    "les",
+    "carnets"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Hier soir, les carnets sont tombés sous l’escalier.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "le",
+    "ballon",
+    "rouge"
+   ],
+   "V": "rouler",
+   "vf": "roulera",
+   "ex": "Bientôt, le ballon rouge roulera sous le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sous",
+   "tps": "futur",
+   "tw": "bientôt",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} plus tard.",
+   "c": "i",
+   "S": [
+    "des",
+    "carnets",
+    "rouges"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Des carnets rouges tomberont plus tard.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "une",
+    "élève",
+    "propre"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "La semaine dernière, une élève propre allait dehors.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "feutre"
+   ],
+   "V": "rouler",
+   "vf": "roule",
+   "ex": "Pendant la récréation, un feutre roule sous les arbres.",
+   "lv": "CE2",
+   "P": [
+    "les",
+    "arbres"
+   ],
+   "pp": "sous",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "ma",
+    "veste"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Ma veste est sur la chaise.",
+   "lv": "CM1",
+   "P": [
+    "la",
+    "chaise"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "Parfois, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "casquettes"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Parfois, des casquettes étaient mouillées.",
+   "lv": "CE1",
+   "A": "mouillées"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "élève"
+   ],
+   "V": "regarder",
+   "vf": "regarde",
+   "ex": "Pendant la récréation, un élève regarde nos casquettes mouillées.",
+   "lv": "CE1",
+   "O": [
+    "nos",
+    "casquettes",
+    "mouillées"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} en silence.",
+   "c": "t",
+   "S": [
+    "un",
+    "élève"
+   ],
+   "V": "regarder",
+   "vf": "a regardé",
+   "ex": "Un élève a regardé nos jupes mouillées en silence.",
+   "lv": "CE1",
+   "O": [
+    "nos",
+    "jupes",
+    "mouillées"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} après la pluie.",
+   "c": "a",
+   "S": [
+    "des",
+    "casquettes"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Des casquettes étaient mouillées après la pluie.",
+   "lv": "CE1",
+   "A": "mouillées"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "une",
+    "élève"
+   ],
+   "V": "regarder",
+   "vf": "regarde",
+   "ex": "Pendant la récréation, une élève regarde les jupes.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "jupes"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} à porter.",
+   "c": "a",
+   "S": [
+    "la",
+    "veste",
+    "mouillée"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "La veste mouillée était lourde à porter.",
+   "lv": "CE1",
+   "A": "lourde"
+  },
+  {
+   "t": "Après le goûter, {S} {V} dans le couloir.",
+   "c": "i",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "aller",
+   "vf": "est allé",
+   "ex": "Après le goûter, un ami est allé dans le couloir.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Parfois, {S} {V} {A} à porter.",
+   "c": "a",
+   "S": [
+    "le",
+    "piano"
+   ],
+   "V": "être",
+   "vf": "a été",
+   "ex": "Parfois, le piano a été lourd à porter.",
+   "lv": "CE1",
+   "A": "lourd"
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Un ami joue dans la ville.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "ville"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} souvent {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "amies"
+   ],
+   "V": "écouter",
+   "vf": "écoutaient",
+   "ex": "Les amies écoutaient souvent les violons.",
+   "lv": "CE2",
+   "O": [
+    "les",
+    "violons"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "amies"
+   ],
+   "V": "écouter",
+   "vf": "écoutent",
+   "ex": "Les amies écoutent le piano.",
+   "lv": "CE2",
+   "O": [
+    "le",
+    "piano"
+   ]
+  },
+  {
+   "t": "{S} {V} loin de la mer.",
+   "c": "i",
+   "S": [
+    "les",
+    "vélos"
+   ],
+   "V": "aller",
+   "vf": "vont",
+   "ex": "Les vélos vont loin de la mer.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} au bord du lac.",
+   "c": "t",
+   "S": [
+    "le",
+    "mouton"
+   ],
+   "V": "chercher",
+   "vf": "cherchait",
+   "ex": "Le mouton cherchait des tartes au bord du lac.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "tartes"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} ensemble.",
+   "c": "t",
+   "S": [
+    "des",
+    "classes"
+   ],
+   "V": "aimer",
+   "vf": "ont aimé",
+   "ex": "Des classes ont aimé des tartes ensemble.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "tartes"
+   ]
+  },
+  {
+   "t": "Ensuite, {S} {V} par terre.",
+   "c": "i",
+   "S": [
+    "des",
+    "carnets"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Ensuite, des carnets sont tombés par terre.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {A} à porter.",
+   "c": "a",
+   "S": [
+    "des",
+    "pianos"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Des pianos sont lourds à porter.",
+   "lv": "CE1",
+   "A": "lourds"
+  },
+  {
+   "t": "Ce matin, {S} {V} {O} là-bas.",
+   "c": "t",
+   "S": [
+    "une",
+    "enfant",
+    "forte"
+   ],
+   "V": "trouver",
+   "vf": "trouve",
+   "ex": "Ce matin, une enfant forte trouve une trousse là-bas.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "trousse"
+   ]
+  },
+  {
+   "t": "{S} {V} par-dessus {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "chevaux"
+   ],
+   "V": "sauter",
+   "vf": "sautaient",
+   "ex": "Des chevaux sautaient par-dessus les tables.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "tables"
+   ],
+   "pp": "par-dessus"
+  },
+  {
+   "t": "Demain, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "mon",
+    "amie"
+   ],
+   "V": "écouter",
+   "vf": "écoutera",
+   "ex": "Demain, mon amie écoutera mon histoire.",
+   "lv": "CE2",
+   "O": [
+    "mon",
+    "histoire"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "écouter",
+   "vf": "écoute",
+   "ex": "Un ami écoute l’histoire.",
+   "lv": "CE1",
+   "O": [
+    "l’",
+    "histoire"
+   ]
+  },
+  {
+   "t": "Bientôt, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "classeur"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Bientôt, le classeur sera sec.",
+   "lv": "CE1",
+   "A": "sec",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "{S} {V} loin de {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "sauter",
+   "vf": "saute",
+   "ex": "Un ami saute loin de la montagne.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "montagne"
+   ],
+   "pp": "loin de",
+   "p": 1
+  },
+  {
+   "t": "Parfois, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "histoire"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Parfois, une histoire sera bonne.",
+   "lv": "CE1",
+   "A": "bonne"
+  },
+  {
+   "t": "Après le goûter, {S} {V} lentement.",
+   "c": "i",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Après le goûter, un ami joue lentement.",
+   "lv": "CE1"
+  },
+  {
+   "t": "En été, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "mes",
+    "oreilles"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "En été, mes oreilles sont chaudes.",
+   "lv": "CE1",
+   "A": "chaudes"
+  },
+  {
+   "t": "En hiver, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "mes",
+    "oreilles"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "En hiver, mes oreilles sont froides.",
+   "lv": "CE1",
+   "A": "froides"
+  },
+  {
+   "t": "Hier soir, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "mon",
+    "oreille"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Hier soir, mon oreille était froide.",
+   "lv": "CE1",
+   "A": "froide",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "{S} {V} doucement à côté de {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "sac"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "Un sac tombait doucement à côté de la gare.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "gare"
+   ],
+   "pp": "à côté de",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} souvent.",
+   "c": "i",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "Un ami jouait souvent.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "Un ami jouait dehors.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} parfois de {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "classeur"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Un classeur tombera parfois de la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "de"
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "classeur",
+    "sec"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "Un classeur sec tombait sur la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} aujourd’hui.",
+   "c": "a",
+   "S": [
+    "les",
+    "vélos"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les vélos sont sales aujourd’hui.",
+   "lv": "CE1",
+   "A": "sales",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} vers {P}, demain.",
+   "c": "i",
+   "S": [
+    "des",
+    "vélos",
+    "sales"
+   ],
+   "V": "rouler",
+   "vf": "rouleront",
+   "ex": "Des vélos sales rouleront vers la ville, demain.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "ville"
+   ],
+   "pp": "vers",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} à côté de la cabane.",
+   "c": "t",
+   "S": [
+    "les",
+    "amis"
+   ],
+   "V": "donner",
+   "vf": "donneront",
+   "ex": "Les amis donneront des jouets à côté de la cabane.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "jouets"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} souvent.",
+   "c": "t",
+   "S": [
+    "les",
+    "lapins"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "Les lapins mangent des carottes souvent.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "carottes"
+   ]
+  },
+  {
+   "t": "Maintenant, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "lapins"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "Maintenant, des lapins mangent des fraises rondes.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "fraises",
+    "rondes"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "jouets"
+   ],
+   "V": "rouler",
+   "vf": "roulent",
+   "ex": "Les jouets roulent sous les escaliers.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "escaliers"
+   ],
+   "pp": "sous",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "couloir"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Hier soir, le couloir était mouillé.",
+   "lv": "CE1",
+   "A": "mouillé",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "Hier, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "escaliers"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Hier, les escaliers étaient mouillés.",
+   "lv": "CE1",
+   "A": "mouillés",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Maintenant, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "livres"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Maintenant, des livres tombent sous les escaliers.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "escaliers"
+   ],
+   "pp": "sous",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "le",
+    "cochon"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Le cochon joue dans les escaliers.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "escaliers"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} au marché.",
+   "c": "i",
+   "S": [
+    "les",
+    "lapins"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "Les lapins ont joué au marché.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Pourtant, {S} {V} {A} hier soir.",
+   "c": "a",
+   "S": [
+    "la",
+    "fleur"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Pourtant, la fleur était bleue hier soir.",
+   "lv": "CE1",
+   "A": "bleue",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "{S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "jouets"
+   ],
+   "V": "rouler",
+   "vf": "roulent",
+   "ex": "Les jouets roulent sous les escaliers.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "escaliers"
+   ],
+   "pp": "sous",
+   "p": 1
+  },
+  {
+   "t": "Quand on l’aura lavée, {S} {V} à nouveau {A}.",
+   "c": "a",
+   "S": [
+    "la",
+    "voiture"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Quand on l’aura lavée, la voiture sera à nouveau blanche.",
+   "lv": "CE1",
+   "A": "blanche"
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "La poule joue sur la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} avec {P} demain.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "La poule jouera avec le garçon demain.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "garçon"
+   ],
+   "pp": "avec",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {O} sous {P}.",
+   "c": "t",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "trouver",
+   "vf": "a trouvé",
+   "ex": "La semaine dernière, un garçon a trouvé des colles sous le tapis.",
+   "lv": "CM2",
+   "O": [
+    "des",
+    "colles"
+   ],
+   "P": [
+    "le",
+    "tapis"
+   ],
+   "pp": "sous",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {O} sous {P}.",
+   "c": "t",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "trouver",
+   "vf": "a trouvé",
+   "ex": "La semaine dernière, un garçon a trouvé de la colle sous le tapis.",
+   "lv": "CM2",
+   "O": [
+    "de la",
+    "colle"
+   ],
+   "P": [
+    "le",
+    "tapis"
+   ],
+   "pp": "sous",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "Demain, {S} {V} à côté de la gare.",
+   "c": "i",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Demain, le garçon jouera à côté de la gare.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} sur le tapis.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "Il y a longtemps, la poule jouait sur le tapis.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "meubles"
+   ],
+   "V": "être",
+   "vf": "ont été",
+   "ex": "Il y a longtemps, des meubles ont été sales.",
+   "lv": "CE1",
+   "A": "sales",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} à côté de {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Des mères jouent à côté de la fenêtre.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "fenêtre"
+   ],
+   "pp": "à côté de",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Une poule a joué sur le canapé.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "canapé"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} souvent vers {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "poules"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Des poules sauteront souvent vers l’école.",
+   "lv": "CE1",
+   "P": [
+    "l’",
+    "école"
+   ],
+   "pp": "vers",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} à {P}.",
+   "c": "a",
+   "S": [
+    "les",
+    "meubles"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les meubles sont propres à la maison.",
+   "lv": "CE1",
+   "A": "propres",
+   "P": [
+    "la",
+    "maison"
+   ],
+   "pp": "à"
+  },
+  {
+   "t": "{S} {V} {A} hier.",
+   "c": "a",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "être",
+   "vf": "a été",
+   "ex": "Un garçon a été bon hier.",
+   "lv": "CE1",
+   "A": "bon",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} au fond du bois.",
+   "c": "i",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Pendant les vacances, des mères sauteront au fond du bois.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} souvent dans {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Une poule a joué souvent dans la forêt.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "forêt"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "Pendant les vacances, {S} {V}.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Pendant les vacances, la poule sautera.",
+   "lv": "CE1"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {O} loin de la maison.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "donner",
+   "vf": "ont donné",
+   "ex": "La semaine dernière, des mères ont donné des bottes loin de la maison.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "bottes"
+   ],
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "{S} {V} avec {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "poule"
+   ],
+   "V": "sauter",
+   "vf": "saute",
+   "ex": "Une poule saute avec un garçon.",
+   "lv": "CE1",
+   "P": [
+    "un",
+    "garçon"
+   ],
+   "pp": "avec"
+  },
+  {
+   "t": "{S} {V} avec {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "La poule jouait avec des mères.",
+   "lv": "CE1",
+   "P": [
+    "des",
+    "mères"
+   ],
+   "pp": "avec"
+  },
+  {
+   "t": "{S} {V} {O} derrière la maison.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "dessiner",
+   "vf": "dessinera",
+   "ex": "Le garçon dessinera la voiture derrière la maison.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "voiture"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} il y a longtemps.",
+   "c": "a",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Un garçon était propre il y a longtemps.",
+   "lv": "CE1",
+   "A": "propre",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Ce matin, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Ce matin, les mères seront propres.",
+   "lv": "CE1",
+   "A": "propres"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "poules"
+   ],
+   "V": "faire",
+   "vf": "feront",
+   "ex": "Pendant la récréation, les poules feront des pains.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pains"
+   ]
+  },
+  {
+   "t": "{S} {V} à la maison.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "La poule jouera à la maison.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Maintenant, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "meubles"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Maintenant, des meubles sont mouillés.",
+   "lv": "CE1",
+   "A": "mouillés",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {A} plus tard.",
+   "c": "a",
+   "S": [
+    "des",
+    "pains"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Des pains seront bons plus tard.",
+   "lv": "CE1",
+   "A": "bons",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "sacs"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Aujourd’hui, les sacs sont minces.",
+   "lv": "CE1",
+   "A": "minces",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Pendant les vacances, un garçon joue dehors.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} dans la nuit.",
+   "c": "a",
+   "S": [
+    "la",
+    "trousse"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "La trousse sera sèche dans la nuit.",
+   "lv": "CE1",
+   "A": "sèche"
+  },
+  {
+   "t": "Demain matin, {S} {V} tout près.",
+   "c": "i",
+   "S": [
+    "une",
+    "poule",
+    "forte"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Demain matin, une poule forte sautera tout près.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} sagement {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "écouter",
+   "vf": "écoutait",
+   "ex": "La poule écoutait sagement une histoire.",
+   "lv": "CE2",
+   "O": [
+    "une",
+    "histoire"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} vers la maison.",
+   "c": "i",
+   "S": [
+    "un",
+    "piano"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Hier, un piano est tombé vers la maison.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "poussin"
+   ],
+   "V": "trouver",
+   "vf": "trouve",
+   "ex": "Un poussin trouve des jouets pointus.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "jouets",
+    "pointus"
+   ]
+  },
+  {
+   "t": "Bientôt, {S} {V} {O} près du village.",
+   "c": "t",
+   "S": [
+    "un",
+    "cheval"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Bientôt, un cheval trouvera un piano près du village.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "piano"
+   ],
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "{S} {V} {O} dans le salon.",
+   "c": "t",
+   "S": [
+    "le",
+    "poussin"
+   ],
+   "V": "écouter",
+   "vf": "écoute",
+   "ex": "Le poussin écoute une histoire dans le salon.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "histoire"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} dans le salon.",
+   "c": "t",
+   "S": [
+    "le",
+    "cheval"
+   ],
+   "V": "manger",
+   "vf": "mange",
+   "ex": "Le cheval mange le bonbon dans le salon.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "bonbon"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "cheval"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Le cheval joue du piano.",
+   "lv": "CE1",
+   "O": [
+    "du",
+    "piano"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} {O} dans la forêt.",
+   "c": "t",
+   "S": [
+    "un",
+    "cheval"
+   ],
+   "V": "trouver",
+   "vf": "a trouvé",
+   "ex": "Hier, un cheval a trouvé un poussin dans la forêt.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "poussin"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Plus tard, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "cheval"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Plus tard, un cheval trouvera un poussin.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "poussin"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Parfois, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "poussin"
+   ],
+   "V": "écouter",
+   "vf": "écoute",
+   "ex": "Parfois, le poussin écoute la poule.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "poule"
+   ]
+  },
+  {
+   "t": "Parfois, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "écouter",
+   "vf": "écoute",
+   "ex": "Parfois, la poule écoute le poussin.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "poussin"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} dans la forêt.",
+   "c": "t",
+   "S": [
+    "un",
+    "poussin"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Un poussin trouvera un cheval dans la forêt.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "cheval"
+   ]
+  },
+  {
+   "t": "Parfois, {S} {V}.",
+   "c": "i",
+   "S": [
+    "une",
+    "poule"
+   ],
+   "V": "sauter",
+   "vf": "saute",
+   "ex": "Parfois, une poule saute.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} doucement.",
+   "c": "i",
+   "S": [
+    "un",
+    "piano"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Aujourd’hui, un piano tombe doucement.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Hier, {S} {V} partout.",
+   "c": "i",
+   "S": [
+    "des",
+    "bonbons"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Hier, des bonbons sont tombés partout.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} hier soir.",
+   "c": "t",
+   "S": [
+    "une",
+    "poule"
+   ],
+   "V": "trouver",
+   "vf": "a trouvé",
+   "ex": "Une poule a trouvé un piano hier soir.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "piano"
+   ],
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "Ensuite, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "poussin"
+   ],
+   "V": "écouter",
+   "vf": "écoute",
+   "ex": "Ensuite, un poussin écoute un cheval.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "cheval"
+   ]
+  },
+  {
+   "t": "Maintenant, {S} {V} près de la rivière.",
+   "c": "i",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Maintenant, la poule joue près de la rivière.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} devant la maison.",
+   "c": "i",
+   "S": [
+    "les",
+    "cahiers"
+   ],
+   "V": "tomber",
+   "vf": "tombaient",
+   "ex": "Hier soir, les cahiers tombaient devant la maison.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Ce matin, {S} {V} vite {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "poule"
+   ],
+   "V": "trouver",
+   "vf": "trouvait",
+   "ex": "Ce matin, la poule trouvait vite les bonbons pointus.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "bonbons",
+    "pointus"
+   ]
+  },
+  {
+   "t": "D’abord, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "poussin"
+   ],
+   "V": "écouter",
+   "vf": "écoutera",
+   "ex": "D’abord, un poussin écoutera un cheval.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "cheval"
+   ]
+  },
+  {
+   "t": "Demain matin, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "cheval"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Demain matin, un cheval trouvera un piano.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "piano"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} partout.",
+   "c": "i",
+   "S": [
+    "des",
+    "pommes"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Des pommes tomberont partout.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Ce matin, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "dessiner",
+   "vf": "dessinaient",
+   "ex": "Ce matin, des familles dessinaient des pantalons larges.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pantalons",
+    "larges"
+   ]
+  },
+  {
+   "t": "Près du lac, {S} {V} {O} la semaine prochaine.",
+   "c": "t",
+   "S": [
+    "des",
+    "poussins"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "Près du lac, des poussins regarderont une voiture la semaine prochaine.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "voiture"
+   ],
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Loin de la maison, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "une",
+    "abeille",
+    "noire"
+   ],
+   "V": "regarder",
+   "vf": "regardait",
+   "ex": "Loin de la maison, une abeille noire regardait des salades.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "salades"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "crayon",
+    "noir"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "Le crayon noir dessine une armoire large.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "armoire",
+    "large"
+   ]
+  },
+  {
+   "t": "{S} {V} derrière le canapé.",
+   "c": "i",
+   "S": [
+    "les",
+    "pantalons",
+    "larges"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Les pantalons larges tomberont derrière le canapé.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} {O} au bord du lac.",
+   "c": "t",
+   "S": [
+    "des",
+    "poussins"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "La semaine prochaine, des poussins regarderont la salade au bord du lac.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "salade"
+   ],
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Demain, {S} {V} {O} près de la forêt.",
+   "c": "t",
+   "S": [
+    "la",
+    "biche",
+    "noire"
+   ],
+   "V": "manger",
+   "vf": "mangera",
+   "ex": "Demain, la biche noire mangera une salade près de la forêt.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "salade"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Bientôt, {S} {V} vers la ville.",
+   "c": "i",
+   "S": [
+    "une",
+    "voiture",
+    "noire"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Bientôt, une voiture noire ira vers la ville.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "bientôt",
+   "p": 1
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} {O} devant l’arbre.",
+   "c": "t",
+   "S": [
+    "une",
+    "enfant"
+   ],
+   "V": "regarder",
+   "vf": "regardait",
+   "ex": "Pendant la récréation, une enfant regardait des pommes devant l’arbre.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pommes"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} tout près.",
+   "c": "t",
+   "S": [
+    "une",
+    "enfant",
+    "noire"
+   ],
+   "V": "dessiner",
+   "vf": "dessinait",
+   "ex": "Une enfant noire dessinait des pommes tout près.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pommes"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} à côté du parc.",
+   "c": "i",
+   "S": [
+    "la",
+    "voiture"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "Hier, la voiture allait à côté du parc.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "dessiner",
+   "vf": "dessineront",
+   "ex": "Demain, des familles dessineront des pommes.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pommes"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Hier soir, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "moutons"
+   ],
+   "V": "regarder",
+   "vf": "regardaient",
+   "ex": "Hier soir, des moutons regardaient des pantalons larges.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pantalons",
+    "larges"
+   ],
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "Demain, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "tigres"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "Demain, des tigres regarderont des pantalons larges.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pantalons",
+    "larges"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Maintenant, {S} {V} {O} avec soin.",
+   "c": "t",
+   "S": [
+    "une",
+    "famille"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "Maintenant, une famille dessine une voiture noire avec soin.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "voiture",
+    "noire"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon",
+    "mince"
+   ],
+   "V": "manger",
+   "vf": "mange",
+   "ex": "Le garçon mince mange du chocolat noir.",
+   "lv": "CE1",
+   "O": [
+    "du",
+    "chocolat",
+    "noir"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "donner",
+   "vf": "donne",
+   "ex": "Le coq donne des jouets.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "jouets"
+   ]
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "lapins"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "Les lapins mangent des carottes.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "carottes"
+   ]
+  },
+  {
+   "t": "{S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq",
+    "mouillé"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Le coq mouillé tombe loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} toujours.",
+   "c": "i",
+   "S": [
+    "un",
+    "coq",
+    "mouillé"
+   ],
+   "V": "sauter",
+   "vf": "sautait",
+   "ex": "Un coq mouillé sautait toujours.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} souvent près du parc.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq",
+    "mince"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Le coq mince est tombé souvent près du parc.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Maintenant, {S} {V} à côté de la gare.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres",
+    "noires"
+   ],
+   "V": "aller",
+   "vf": "vont",
+   "ex": "Maintenant, des chèvres noires vont à côté de la gare.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O} au fond de la forêt.",
+   "c": "t",
+   "S": [
+    "un",
+    "garçon",
+    "mince"
+   ],
+   "V": "donner",
+   "vf": "donnait",
+   "ex": "Il y a longtemps, un garçon mince donnait des carottes au fond de la forêt.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "carottes"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "donner",
+   "vf": "donne",
+   "ex": "Le coq donne des carottes.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "carottes"
+   ]
+  },
+  {
+   "t": "Près du village, {S} {V} lentement.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Près du village, le coq jouera lentement.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} doucement.",
+   "c": "i",
+   "S": [
+    "le",
+    "garçon",
+    "mince"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Le garçon mince a joué doucement.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} partout.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres",
+    "noires"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Des chèvres noires tombent partout.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V} sous la chaise.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Après le goûter, un garçon mouillé a sauté sous la chaise.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} sur l’escalier.",
+   "c": "i",
+   "S": [
+    "les",
+    "chèvres",
+    "noires"
+   ],
+   "V": "sauter",
+   "vf": "sautaient",
+   "ex": "Les chèvres noires sautaient sur l’escalier.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} ensemble derrière le canapé.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres",
+    "noires"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "Des chèvres noires ont joué ensemble derrière le canapé.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} à côté de l’école.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon",
+    "mince"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Hier soir, un garçon mince a sauté à côté de l’école.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} sur le canapé.",
+   "c": "i",
+   "S": [
+    "le",
+    "stylo"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Demain, le stylo tombera sur le canapé.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} loin de la mer.",
+   "c": "t",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "écouter",
+   "vf": "a écouté",
+   "ex": "Une araignée a écouté une chèvre loin de la mer.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "chèvre"
+   ]
+  },
+  {
+   "t": "{S} {V} vite {O}.",
+   "c": "t",
+   "S": [
+    "un",
+    "cochon"
+   ],
+   "V": "manger",
+   "vf": "mangeait",
+   "ex": "Un cochon mangeait vite les pains.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "pains"
+   ]
+  },
+  {
+   "t": "Ce matin, {S} {V} {O} loin de la forêt.",
+   "c": "t",
+   "S": [
+    "la",
+    "chèvre"
+   ],
+   "V": "regarder",
+   "vf": "regardera",
+   "ex": "Ce matin, la chèvre regardera les gants loin de la forêt.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "gants"
+   ]
+  },
+  {
+   "t": "Demain matin, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "une",
+    "biche"
+   ],
+   "V": "chercher",
+   "vf": "cherchera",
+   "ex": "Demain matin, une biche cherchera une araignée.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "araignée"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} loin de la gare.",
+   "c": "i",
+   "S": [
+    "le",
+    "stylo",
+    "bleu"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Le stylo bleu est tombé loin de la gare.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} dans l’escalier.",
+   "c": "t",
+   "S": [
+    "une",
+    "biche"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Une biche trouvera le stylo dans l’escalier.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "stylo"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} en silence.",
+   "c": "t",
+   "S": [
+    "la",
+    "chèvre"
+   ],
+   "V": "regarder",
+   "vf": "regardait",
+   "ex": "La chèvre regardait la gomme en silence.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "gomme"
+   ]
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} sous le canapé.",
+   "c": "i",
+   "S": [
+    "des",
+    "trousses",
+    "noires"
+   ],
+   "V": "tomber",
+   "vf": "tombaient",
+   "ex": "Il y a longtemps, des trousses noires tombaient sous le canapé.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} tout près.",
+   "c": "t",
+   "S": [
+    "la",
+    "biche"
+   ],
+   "V": "trouver",
+   "vf": "trouve",
+   "ex": "La biche trouve un cochon tout près.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "cochon"
+   ]
+  },
+  {
+   "t": "Ensuite, {S} {V} {O} avec plaisir.",
+   "c": "t",
+   "S": [
+    "une",
+    "chèvre"
+   ],
+   "V": "écouter",
+   "vf": "a écouté",
+   "ex": "Ensuite, une chèvre a écouté une araignée avec plaisir.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "araignée"
+   ]
+  },
+  {
+   "t": "Pendant la nuit, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "écouter",
+   "vf": "écoutait",
+   "ex": "Pendant la nuit, une araignée écoutait une chèvre.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "chèvre"
+   ]
+  },
+  {
+   "t": "{S} {V} vers la maison.",
+   "c": "i",
+   "S": [
+    "des",
+    "trousses",
+    "noires"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Des trousses noires tomberont vers la maison.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine dernière, {S} {V} sur la table.",
+   "c": "i",
+   "S": [
+    "des",
+    "trousses",
+    "noires"
+   ],
+   "V": "tomber",
+   "vf": "sont tombées",
+   "ex": "La semaine dernière, des trousses noires sont tombées sur la table.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V}.",
+   "c": "i",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "sauter",
+   "vf": "sautait",
+   "ex": "Il y a longtemps, le garçon sautait.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Maintenant, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Maintenant, un garçon joue dehors.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} toujours.",
+   "c": "i",
+   "S": [
+    "les",
+    "flûtes",
+    "bleues"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Les flûtes bleues tomberont toujours.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {O} souvent.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "regarder",
+   "vf": "regardera",
+   "ex": "Le garçon mouillé regardera le fromage souvent.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "fromage"
+   ]
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} à la gare.",
+   "c": "i",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Aujourd’hui, le garçon joue à la gare.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} derrière la cabane.",
+   "c": "i",
+   "S": [
+    "des",
+    "biscuits"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Demain, des biscuits tomberont derrière la cabane.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} pendant la récréation.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Un garçon sautera pendant la récréation.",
+   "lv": "CE1"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {O} au marché.",
+   "c": "t",
+   "S": [
+    "un",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "regarder",
+   "vf": "regardait",
+   "ex": "La semaine dernière, un garçon mouillé regardait les biscuits au marché.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "biscuits"
+   ],
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "Ce matin, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "la",
+    "salade"
+   ],
+   "V": "tomber",
+   "vf": "est tombée",
+   "ex": "Ce matin, la salade est tombée loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine dernière, {S} {V} partout.",
+   "c": "i",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "La semaine dernière, le garçon a sauté partout.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "Dans la nuit, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "un",
+    "fromage"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Dans la nuit, un fromage est tombé là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Pendant la récréation, un garçon sautera là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {O} dans la baignoire.",
+   "c": "t",
+   "S": [
+    "un",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "regarder",
+   "vf": "regarde",
+   "ex": "Aujourd’hui, un garçon mouillé regarde un fromage dans la baignoire.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "fromage"
+   ],
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Demain matin, {S} {V} {O} au bord du lac.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "regarder",
+   "vf": "regardera",
+   "ex": "Demain matin, le garçon mouillé regardera la salade au bord du lac.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "salade"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} avec soin.",
+   "c": "i",
+   "S": [
+    "le",
+    "garçon"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Pendant la récréation, le garçon tombera avec soin.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Demain matin, {S} {V} sans bruit.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Demain matin, un garçon mouillé sautera sans bruit.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} {O} sans bruit.",
+   "c": "t",
+   "S": [
+    "le",
+    "garçon",
+    "mouillé"
+   ],
+   "V": "regarder",
+   "vf": "regarde",
+   "ex": "Pendant la récréation, le garçon mouillé regarde sa main sans bruit.",
+   "lv": "CE2",
+   "O": [
+    "sa",
+    "main"
+   ]
+  },
+  {
+   "t": "Demain matin, {S} {V} {O} à côté de la cabane.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "feront",
+   "ex": "Demain matin, les mères feront un stylo à côté de la cabane.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "stylo"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "Maintenant, {S} {V} {O} en silence.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "font",
+   "ex": "Maintenant, les mères font un pull mince en silence.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "pull",
+    "mince"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {O} sans bruit.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "ont fait",
+   "ex": "Dans la nuit, des mères ont fait un stylo mince sans bruit.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "stylo",
+    "mince"
+   ]
+  },
+  {
+   "t": "Demain, {S} {V} {O} sans bruit.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "feront",
+   "ex": "Demain, des mères feront un stylo mince sans bruit.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "stylo",
+    "mince"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} {O} sans bruit.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "font",
+   "ex": "Les mères font un pull mince sans bruit.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "pull",
+    "mince"
+   ]
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {O} au fond de la classe.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "faisaient",
+   "ex": "Dans la nuit, des mères faisaient un pull mince au fond de la classe.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "pull",
+    "mince"
+   ]
+  },
+  {
+   "t": "Plus tard, {S} {V} ici.",
+   "c": "i",
+   "S": [
+    "un",
+    "pull"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Plus tard, un pull tombera ici.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "plus tard",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} hier.",
+   "c": "i",
+   "S": [
+    "un",
+    "stylo",
+    "mince"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "Un stylo mince tombait hier.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "En ce moment, {S} {V} {O} ensemble.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "font",
+   "ex": "En ce moment, les mères font un stylo mince ensemble.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "stylo",
+    "mince"
+   ],
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} {O} doucement.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "feront",
+   "ex": "Des mères feront un stylo mince doucement.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "stylo",
+    "mince"
+   ]
+  },
+  {
+   "t": "{S} {V} doucement la semaine prochaine.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Le coq sautera doucement la semaine prochaine.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "{S} {V} vite {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "chèvres"
+   ],
+   "V": "écouter",
+   "vf": "écoutent",
+   "ex": "Les chèvres écoutent vite les familles.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "familles"
+   ]
+  },
+  {
+   "t": "Hier soir, {S} {V} {O} en silence.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "ont fait",
+   "ex": "Hier soir, des mères ont fait des gommes en silence.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "gommes"
+   ],
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "Hier, {S} {V} {O} ici.",
+   "c": "t",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "chercher",
+   "vf": "ont cherché",
+   "ex": "Hier, des garçons ont cherché ma douche ici.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "douche"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "En ce moment, {S} {V} {O} en silence.",
+   "c": "t",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "trouver",
+   "vf": "trouvent",
+   "ex": "En ce moment, des oiseaux trouvent ma flûte en silence.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte"
+   ],
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Hier, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "un",
+    "coq"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "Hier, un coq allait dehors.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "Demain matin, {S} {V} {O} ensemble.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "dessiner",
+   "vf": "dessineront",
+   "ex": "Demain matin, les garçons dessineront des oiseaux ensemble.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "oiseaux"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "Parfois, {S} {V} {O} partout.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "dessiner",
+   "vf": "ont dessiné",
+   "ex": "Parfois, les mères ont dessiné les oiseaux partout.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "oiseaux"
+   ]
+  },
+  {
+   "t": "Dans la nuit, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "aller",
+   "vf": "allaient",
+   "ex": "Dans la nuit, des chèvres allaient là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "En ce moment, {S} {V} ensemble.",
+   "c": "i",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "En ce moment, les garçons jouent ensemble.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "La semaine dernière, une araignée allait loin d’ici.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} partout.",
+   "c": "i",
+   "S": [
+    "un",
+    "coq"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "Un coq jouait partout.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} au fond du couloir.",
+   "c": "t",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "trouver",
+   "vf": "trouveront",
+   "ex": "Des oiseaux trouveront des agendas au fond du couloir.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "agendas"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} partout.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "donner",
+   "vf": "ont donné",
+   "ex": "Les garçons ont donné les agendas partout.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "agendas"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} doucement sur le chemin.",
+   "c": "t",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "chercher",
+   "vf": "ont cherché",
+   "ex": "Les familles ont cherché les agendas doucement sur le chemin.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "agendas"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} pendant la récréation.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "donner",
+   "vf": "ont donné",
+   "ex": "Les mères ont donné ma flûte pointue pendant la récréation.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ]
+  },
+  {
+   "t": "Maintenant, {S} {V} {O} dehors.",
+   "c": "t",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "trouver",
+   "vf": "trouvent",
+   "ex": "Maintenant, les oiseaux trouvent ma flûte pointue dehors.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "Au bord du lac, {S} {V}.",
+   "c": "i",
+   "S": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Au bord du lac, ma flûte pointue tombera.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} vers la rivière.",
+   "c": "i",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "sauter",
+   "vf": "sautait",
+   "ex": "Pendant les vacances, le tigre sautait vers la rivière.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Parfois, {S} {V} lentement.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Parfois, le coq a sauté lentement.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} bientôt.",
+   "c": "i",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Les familles tomberont bientôt.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "trouver",
+   "vf": "trouveront",
+   "ex": "La semaine prochaine, des mères trouveront des agendas.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "agendas"
+   ],
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "En ce moment, {S} {V} {O} loin d’ici.",
+   "c": "t",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "donner",
+   "vf": "donnent",
+   "ex": "En ce moment, des garçons donnent ma flûte pointue loin d’ici.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Ce matin, {S} {V} {O} derrière la porte.",
+   "c": "t",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Ce matin, une araignée trouvera ma flûte pointue derrière la porte.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ]
+  },
+  {
+   "t": "Hier soir, {S} {V} à la gare.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "aller",
+   "vf": "est allé",
+   "ex": "Hier soir, le coq est allé à la gare.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "Ensuite, {S} {V} vers la mer.",
+   "c": "i",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Ensuite, les mères jouaient vers la mer.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} pendant la récréation.",
+   "c": "i",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Des oiseaux jouaient pendant la récréation.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} de {P} vers le village.",
+   "c": "i",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Pendant les vacances, les mères jouaient de la flûte vers le village.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "flûte"
+   ],
+   "pp": "de",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} près du parc, après le goûter.",
+   "c": "i",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Les familles joueront près du parc, après le goûter.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} vers la fenêtre.",
+   "c": "i",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "tomber",
+   "vf": "est tombée",
+   "ex": "Une araignée est tombée vers la fenêtre.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} il y a longtemps.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "sauter",
+   "vf": "ont sauté",
+   "ex": "Des chèvres ont sauté il y a longtemps.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Vers le lac, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Vers le lac, les garçons joueront.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {O} près du parc.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "faire",
+   "vf": "font",
+   "ex": "Les mères font des gommes près du parc.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "gommes"
+   ]
+  },
+  {
+   "t": "{S} {V} maintenant.",
+   "c": "i",
+   "S": [
+    "un",
+    "coq"
+   ],
+   "V": "sauter",
+   "vf": "saute",
+   "ex": "Un coq saute maintenant.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} {O} lentement.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "La semaine prochaine, les garçons regarderont les agendas lentement.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "agendas"
+   ],
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Après le goûter, {S} {V} {O} vers l’école.",
+   "c": "t",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "dessiner",
+   "vf": "ont dessiné",
+   "ex": "Après le goûter, les familles ont dessiné des garçons vers l’école.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "garçons"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} en silence au fond du lac.",
+   "c": "t",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "trouver",
+   "vf": "trouvaient",
+   "ex": "Des oiseaux trouvaient ma flûte pointue en silence au fond du lac.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ]
+  },
+  {
+   "t": "{S} {V} doucement la semaine prochaine.",
+   "c": "i",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Les garçons joueront doucement la semaine prochaine.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Ensuite, {S} {V} à côté de l’armoire.",
+   "c": "i",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Ensuite, des oiseaux tomberont à côté de l’armoire.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Maintenant, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "chèvres"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Maintenant, les chèvres tombent loin d’ici.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} la semaine prochaine.",
+   "c": "t",
+   "S": [
+    "un",
+    "tigre"
+   ],
+   "V": "regarder",
+   "vf": "regardera",
+   "ex": "Un tigre regardera un train court la semaine prochaine.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "train",
+    "court"
+   ],
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "{S} {V} sans bruit.",
+   "c": "i",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Des garçons jouent sans bruit.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Maintenant, {S} {V}.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Maintenant, le coq joue.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {O} sur le toit.",
+   "c": "t",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "donner",
+   "vf": "donnent",
+   "ex": "Dans la nuit, les familles donnent des agendas sur le toit.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "agendas"
+   ]
+  },
+  {
+   "t": "{S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "ma",
+    "flûte"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Ma flûte tombe là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine dernière, {S} {V} ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "chèvres"
+   ],
+   "V": "aller",
+   "vf": "sont allées",
+   "ex": "La semaine dernière, les chèvres sont allées ici.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "Aujourd’hui, {S} {V}.",
+   "c": "i",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "Aujourd’hui, des oiseaux sautent.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} tout près.",
+   "c": "i",
+   "S": [
+    "un",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "jouait",
+   "ex": "Un tigre jouait tout près.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} doucement ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Les mères joueront doucement ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "regarder",
+   "vf": "ont regardé",
+   "ex": "Il y a longtemps, les garçons ont regardé les chèvres.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "chèvres"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Ce matin, {S} {V}.",
+   "c": "i",
+   "S": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Ce matin, ma flûte pointue tombera.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} en ce moment.",
+   "c": "i",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Des mères tombent en ce moment.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "En ce moment, {S} {V} à côté de la table.",
+   "c": "i",
+   "S": [
+    "un",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "En ce moment, un tigre joue à côté de la table.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} dans le train.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "écouter",
+   "vf": "écouteront",
+   "ex": "Les garçons écouteront les familles dans le train.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "familles"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} plus tard.",
+   "c": "t",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "Des garçons regarderont des oiseaux plus tard.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "oiseaux"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {O} dans le train.",
+   "c": "t",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "dessiner",
+   "vf": "dessineront",
+   "ex": "Dans la nuit, les mères dessineront des familles dans le train.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "familles"
+   ]
+  },
+  {
+   "t": "{S} {V} bientôt.",
+   "c": "i",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Une araignée jouera bientôt.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "La semaine dernière, {S} {V}.",
+   "c": "i",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "La semaine dernière, le tigre a joué.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "{S} {V} toujours loin d’ici.",
+   "c": "i",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "sauter",
+   "vf": "sautaient",
+   "ex": "Des oiseaux sautaient toujours loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V} partout.",
+   "c": "i",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "sauter",
+   "vf": "ont sauté",
+   "ex": "Après le goûter, les familles ont sauté partout.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V} à la maison.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Après le goûter, les oiseaux iront à la maison.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} bientôt.",
+   "c": "t",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "donner",
+   "vf": "donneront",
+   "ex": "Des familles donneront ma flûte pointue bientôt.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "{S} {V} loin de la ville.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "Le coq va loin de la ville.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} pendant la récréation.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Des chèvres tomberont pendant la récréation.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Hier, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "regarder",
+   "vf": "a regardé",
+   "ex": "Hier, le tigre a regardé le train court.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "train",
+    "court"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} {O} là-bas.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "regarder",
+   "vf": "regardent",
+   "ex": "Pendant les vacances, les garçons regardent ma flûte pointue là-bas.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ]
+  },
+  {
+   "t": "{S} {V} tout près.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "aller",
+   "vf": "vont",
+   "ex": "Des chèvres vont tout près.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "trouver",
+   "vf": "trouve",
+   "ex": "Le tigre trouve le coq.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "coq"
+   ]
+  },
+  {
+   "t": "{S} {V} vite {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "chèvres"
+   ],
+   "V": "trouver",
+   "vf": "trouvaient",
+   "ex": "Les chèvres trouvaient vite ma flûte.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte"
+   ]
+  },
+  {
+   "t": "Aujourd’hui, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Aujourd’hui, les oiseaux tombent.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} toujours.",
+   "c": "i",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Le tigre jouera toujours.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} avec plaisir.",
+   "c": "i",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Des mères tomberont avec plaisir.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} souvent dehors.",
+   "c": "i",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Des garçons sauteront souvent dehors.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} en ce moment.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "Des chèvres sautent en ce moment.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} {O} il y a longtemps.",
+   "c": "t",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "trouver",
+   "vf": "ont trouvé",
+   "ex": "Les familles ont trouvé des gommes il y a longtemps.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "gommes"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Ensuite, {S} {V} sous l’escalier.",
+   "c": "i",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Ensuite, des familles jouent sous l’escalier.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Derrière la cabane, {S} {V} avec soin.",
+   "c": "i",
+   "S": [
+    "un",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Derrière la cabane, un tigre a joué avec soin.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} en silence.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Dans la nuit, les oiseaux sauteront en silence.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} avec plaisir sur la salade.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "tomber",
+   "vf": "sont tombées",
+   "ex": "Des chèvres sont tombées avec plaisir sur la salade.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} {O} au bord de la rivière.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "dessiner",
+   "vf": "dessineront",
+   "ex": "Demain, les garçons dessineront des agendas au bord de la rivière.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "agendas"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O} ensemble.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "dessiner",
+   "vf": "ont dessiné",
+   "ex": "Il y a longtemps, les garçons ont dessiné ma flûte pointue ensemble.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O} dans le bureau.",
+   "c": "t",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "trouver",
+   "vf": "trouvaient",
+   "ex": "Il y a longtemps, les oiseaux trouvaient ma flûte dans le bureau.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} en ce moment.",
+   "c": "i",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Les garçons jouent en ce moment.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O} dans le village.",
+   "c": "t",
+   "S": [
+    "les",
+    "chèvres"
+   ],
+   "V": "écouter",
+   "vf": "ont écouté",
+   "ex": "Il y a longtemps, les chèvres ont écouté les oiseaux dans le village.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "oiseaux"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {O} à côté de l’armoire.",
+   "c": "t",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "dessiner",
+   "vf": "dessinaient",
+   "ex": "La semaine dernière, des garçons dessinaient des oiseaux à côté de l’armoire.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "oiseaux"
+   ],
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "D’abord, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "D’abord, des oiseaux regarderont les agendas.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "agendas"
+   ]
+  },
+  {
+   "t": "{S} {V} vite.",
+   "c": "i",
+   "S": [
+    "un",
+    "coq"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Un coq est tombé vite.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Près de la porte, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Près de la porte, les oiseaux jouent.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Parfois, {S} {V} {O} au marché.",
+   "c": "t",
+   "S": [
+    "les",
+    "familles"
+   ],
+   "V": "trouver",
+   "vf": "trouvaient",
+   "ex": "Parfois, les familles trouvaient des gommes au marché.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "gommes"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} avec plaisir derrière le train.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "chercher",
+   "vf": "cherchaient",
+   "ex": "Les garçons cherchaient les chèvres avec plaisir derrière le train.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "chèvres"
+   ]
+  },
+  {
+   "t": "Demain, {S} {V} {O} derrière l’armoire.",
+   "c": "t",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "chercher",
+   "vf": "cherchera",
+   "ex": "Demain, le coq cherchera ma flûte pointue derrière l’armoire.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} la semaine dernière.",
+   "c": "i",
+   "S": [
+    "le",
+    "coq"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "Le coq a sauté la semaine dernière.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V}.",
+   "c": "i",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "Aujourd’hui, des familles sautent.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Ensuite, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "gommes"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Ensuite, les gommes tombent.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Après le goûter, {S} {V} vers l’école.",
+   "c": "i",
+   "S": [
+    "une",
+    "araignée"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "Après le goûter, une araignée va vers l’école.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} pendant la récréation.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "donner",
+   "vf": "donnent",
+   "ex": "Les garçons donnent des gommes pendant la récréation.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "gommes"
+   ]
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} dans la voiture.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "aller",
+   "vf": "allaient",
+   "ex": "Il y a longtemps, les oiseaux allaient dans la voiture.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} en ce moment.",
+   "c": "i",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "Le tigre joue en ce moment.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Demain, {S} {V}.",
+   "c": "i",
+   "S": [
+    "un",
+    "tigre"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Demain, un tigre jouera.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} vers la rivière.",
+   "c": "i",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "sauter",
+   "vf": "sautaient",
+   "ex": "La semaine dernière, les mères sautaient vers la rivière.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "les",
+    "mères"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Pendant les vacances, les mères sauteront dehors.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} {O} au fond du lac.",
+   "c": "t",
+   "S": [
+    "les",
+    "garçons"
+   ],
+   "V": "regarder",
+   "vf": "regarderont",
+   "ex": "Bientôt, les garçons regarderont les mères au fond du lac.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "mères"
+   ],
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "Hier soir, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "regarder",
+   "vf": "regardaient",
+   "ex": "Hier soir, les oiseaux regardaient ma flûte pointue.",
+   "lv": "CE1",
+   "O": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "{S} {V} maintenant.",
+   "c": "i",
+   "S": [
+    "ma",
+    "flûte",
+    "pointue"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Ma flûte pointue tombe maintenant.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {O} avec soin.",
+   "c": "t",
+   "S": [
+    "les",
+    "coqs"
+   ],
+   "V": "écouter",
+   "vf": "écoutent",
+   "ex": "Aujourd’hui, les coqs écoutent une chanson avec soin.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "chanson"
+   ],
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "D’abord, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "short"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "D’abord, le short sera mouillé.",
+   "lv": "CE1",
+   "A": "mouillé"
+  },
+  {
+   "t": "{S} {V} devant {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "trousse"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "La trousse tombait devant les écoles.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "écoles"
+   ],
+   "pp": "devant",
+   "p": 1
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} en silence.",
+   "c": "i",
+   "S": [
+    "un",
+    "chat"
+   ],
+   "V": "sauter",
+   "vf": "sautait",
+   "ex": "Pendant les vacances, un chat sautait en silence.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} toujours là-bas.",
+   "c": "i",
+   "S": [
+    "le",
+    "bonnet"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Le bonnet tombera toujours là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} maintenant.",
+   "c": "i",
+   "S": [
+    "des",
+    "gants",
+    "lourds"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Des gants lourds tombent maintenant.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} souvent.",
+   "c": "i",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Des familles jouaient souvent.",
+   "lv": "CE1"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "livres"
+   ],
+   "V": "être",
+   "vf": "ont été",
+   "ex": "La semaine dernière, des livres ont été lourds.",
+   "lv": "CE1",
+   "A": "lourds",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "Plus tard, {S} {V} à côté de la cabane.",
+   "c": "i",
+   "S": [
+    "des",
+    "pommes"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Plus tard, des pommes seront à côté de la cabane.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "plus tard",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "agenda"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Un agenda est tombé dans les maisons.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "maisons"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V}.",
+   "c": "i",
+   "S": [
+    "ma",
+    "chaussure"
+   ],
+   "V": "tomber",
+   "vf": "est tombée",
+   "ex": "Hier soir, ma chaussure est tombée.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "En ce moment, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "En ce moment, des familles mangent des pommes.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pommes"
+   ],
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "D’abord, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "manger",
+   "vf": "mangeront",
+   "ex": "D’abord, des familles mangeront des pommes.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pommes"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} aujourd’hui.",
+   "c": "a",
+   "S": [
+    "un",
+    "agenda"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Un agenda est propre aujourd’hui.",
+   "lv": "CE1",
+   "A": "propre",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "D’abord, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "ma",
+    "chaussure"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "D’abord, ma chaussure sera sale.",
+   "lv": "CE1",
+   "A": "sale"
+  },
+  {
+   "t": "Parfois, {S} {V} sous le tapis.",
+   "c": "i",
+   "S": [
+    "des",
+    "pommes"
+   ],
+   "V": "tomber",
+   "vf": "tombaient",
+   "ex": "Parfois, des pommes tombaient sous le tapis.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine dernière, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "la",
+    "famille"
+   ],
+   "V": "sauter",
+   "vf": "a sauté",
+   "ex": "La semaine dernière, la famille a sauté là-bas.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} en silence au fond du lac.",
+   "c": "i",
+   "S": [
+    "un",
+    "tigre"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Un tigre ira en silence au fond du lac.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} loin de la forêt.",
+   "c": "i",
+   "S": [
+    "le",
+    "tigre"
+   ],
+   "V": "sauter",
+   "vf": "sautera",
+   "ex": "Pendant les vacances, le tigre sautera loin de la forêt.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} {O} au bord du lac.",
+   "c": "t",
+   "S": [
+    "la",
+    "biche",
+    "lourde"
+   ],
+   "V": "chercher",
+   "vf": "cherchait",
+   "ex": "Hier, la biche lourde cherchait le mouton au bord du lac.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "mouton"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Parfois, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "chocolats"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Parfois, les chocolats seront bons.",
+   "lv": "CE1",
+   "A": "bons"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {O} à côté du lit.",
+   "c": "t",
+   "S": [
+    "le",
+    "mouton"
+   ],
+   "V": "manger",
+   "vf": "mange",
+   "ex": "Aujourd’hui, le mouton mange des chocolats à côté du lit.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "chocolats"
+   ],
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} après le goûter.",
+   "c": "i",
+   "S": [
+    "un",
+    "chocolat"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Un chocolat est tombé après le goûter.",
+   "lv": "CE1"
+  },
+  {
+   "t": "D’abord, {S} {V} ici.",
+   "c": "i",
+   "S": [
+    "des",
+    "chevaux"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "D’abord, des chevaux ont joué ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "D’abord, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "les",
+    "chevaux"
+   ],
+   "V": "sauter",
+   "vf": "sautaient",
+   "ex": "D’abord, les chevaux sautaient dehors.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V} vite.",
+   "c": "i",
+   "S": [
+    "les",
+    "trains"
+   ],
+   "V": "rouler",
+   "vf": "ont roulé",
+   "ex": "Après le goûter, les trains ont roulé vite.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Dans la forêt, {S} {V} hier soir.",
+   "c": "i",
+   "S": [
+    "la",
+    "trousse",
+    "noire"
+   ],
+   "V": "tomber",
+   "vf": "est tombée",
+   "ex": "Dans la forêt, la trousse noire est tombée hier soir.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "Demain matin, {S} {V} {O} tout près.",
+   "c": "t",
+   "S": [
+    "la",
+    "biche"
+   ],
+   "V": "trouver",
+   "vf": "trouvera",
+   "ex": "Demain matin, la biche trouvera le gant tout près.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "gant"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} en silence loin d’ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "fleurs"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Les fleurs tomberont en silence loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "tomate",
+    "noire"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Bientôt, la tomate noire tombera sous les escaliers.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "escaliers"
+   ],
+   "pp": "sous",
+   "tps": "futur",
+   "tw": "bientôt",
+   "p": 1
+  },
+  {
+   "t": "Plus tard, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "la",
+    "tomate"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Plus tard, la tomate sera noire.",
+   "lv": "CE1",
+   "A": "noire",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "escaliers"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "La semaine prochaine, des escaliers seront sales.",
+   "lv": "CE1",
+   "A": "sales",
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Demain, {S} {V} {O} lentement.",
+   "c": "t",
+   "S": [
+    "un",
+    "lapin"
+   ],
+   "V": "faire",
+   "vf": "fera",
+   "ex": "Demain, un lapin fera un bain lentement.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "bain"
+   ],
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "la",
+    "botte"
+   ],
+   "V": "être",
+   "vf": "a été",
+   "ex": "La semaine dernière, la botte a été noire.",
+   "lv": "CE1",
+   "A": "noire",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "{S} {V} souvent là-bas.",
+   "c": "i",
+   "S": [
+    "un",
+    "lapin"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Un lapin ira souvent là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "En ce moment, {S} {V} en silence.",
+   "c": "i",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "En ce moment, un garçon joue en silence.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} {A} demain matin.",
+   "c": "a",
+   "S": [
+    "la",
+    "botte"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "La botte sera sèche demain matin.",
+   "lv": "CE1",
+   "A": "sèche",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "Après le goûter, {S} {V} dans la cour.",
+   "c": "i",
+   "S": [
+    "la",
+    "botte",
+    "grise"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "Après le goûter, la botte grise tombait dans la cour.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Demain matin, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "la",
+    "table"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Demain matin, la table sera lourde.",
+   "lv": "CE1",
+   "A": "lourde",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} demain.",
+   "c": "i",
+   "S": [
+    "une",
+    "table"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Une table tombera demain.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Demain matin, {S} {V} tout près.",
+   "c": "i",
+   "S": [
+    "un",
+    "cochon"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Demain matin, un cochon ira tout près.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "Plus tard, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "lapins"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Plus tard, les lapins seront propres.",
+   "lv": "CE1",
+   "A": "propres",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Hier soir, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "dossiers"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Hier soir, des dossiers étaient mouillés.",
+   "lv": "CE1",
+   "A": "mouillés",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "{S} {V} derrière {P}.",
+   "c": "i",
+   "S": [
+    "un",
+    "agenda"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Un agenda est tombé derrière l’arbre.",
+   "lv": "CE2",
+   "P": [
+    "l’",
+    "arbre"
+   ],
+   "pp": "derrière",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V}.",
+   "c": "i",
+   "S": [
+    "des",
+    "lapins"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Après le goûter, des lapins sauteront.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {O} avec plaisir.",
+   "c": "t",
+   "S": [
+    "une",
+    "classe"
+   ],
+   "V": "donner",
+   "vf": "donnera",
+   "ex": "Une classe donnera un meuble avec plaisir.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "meuble"
+   ]
+  },
+  {
+   "t": "{S} {V} devant {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "dossiers"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Les dossiers tombent devant l’armoire.",
+   "lv": "CE1",
+   "P": [
+    "l’",
+    "armoire"
+   ],
+   "pp": "devant",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} souvent près de l’école.",
+   "c": "t",
+   "S": [
+    "les",
+    "lapins"
+   ],
+   "V": "regarder",
+   "vf": "ont regardé",
+   "ex": "Les lapins ont regardé le meuble souvent près de l’école.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "meuble"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} souvent loin d’ici.",
+   "c": "t",
+   "S": [
+    "des",
+    "lapins"
+   ],
+   "V": "regarder",
+   "vf": "regardent",
+   "ex": "Des lapins regardent le meuble souvent loin d’ici.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "meuble"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} plus tard.",
+   "c": "a",
+   "S": [
+    "les",
+    "carottes"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Les carottes seront noires plus tard.",
+   "lv": "CE1",
+   "A": "noires",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "{S} {V} {O} plus tard.",
+   "c": "t",
+   "S": [
+    "un",
+    "enfant"
+   ],
+   "V": "écrire",
+   "vf": "écrira",
+   "ex": "Un enfant écrira des livres plus tard.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "livres"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "{S} {V} à côté de l’arbre.",
+   "c": "i",
+   "S": [
+    "des",
+    "vélos"
+   ],
+   "V": "aller",
+   "vf": "allaient",
+   "ex": "Des vélos allaient à côté de l’arbre.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} plus tard.",
+   "c": "t",
+   "S": [
+    "une",
+    "mère"
+   ],
+   "V": "donner",
+   "vf": "donnera",
+   "ex": "Une mère donnera le meuble plus tard.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "meuble"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "D’abord, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "meuble"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "D’abord, le meuble était large.",
+   "lv": "CE1",
+   "A": "large"
+  },
+  {
+   "t": "{S} {V} {A} la semaine prochaine.",
+   "c": "a",
+   "S": [
+    "une",
+    "voiture"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Une voiture sera bleue la semaine prochaine.",
+   "lv": "CE1",
+   "A": "bleue",
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} derrière la gare.",
+   "c": "i",
+   "S": [
+    "la",
+    "voiture"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "Pendant la récréation, la voiture allait derrière la gare.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Ensuite, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "voiture"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Ensuite, une voiture sera grise.",
+   "lv": "CE1",
+   "A": "grise"
+  },
+  {
+   "t": "{S} {V} maintenant.",
+   "c": "i",
+   "S": [
+    "le",
+    "poussin"
+   ],
+   "V": "sauter",
+   "vf": "saute",
+   "ex": "Le poussin saute maintenant.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} devant l’école.",
+   "c": "i",
+   "S": [
+    "des",
+    "vélos"
+   ],
+   "V": "aller",
+   "vf": "allaient",
+   "ex": "Pendant la récréation, des vélos allaient devant l’école.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "vélos"
+   ],
+   "V": "aller",
+   "vf": "sont allés",
+   "ex": "Il y a longtemps, les vélos sont allés ici.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} en ce moment.",
+   "c": "a",
+   "S": [
+    "des",
+    "robes"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Des robes sont mouillées en ce moment.",
+   "lv": "CE1",
+   "A": "mouillées",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Demain matin, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "vélos"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Demain matin, les vélos iront loin d’ici.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} au bord de la rivière.",
+   "c": "i",
+   "S": [
+    "mon",
+    "biscuit"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Hier, mon biscuit est tombé au bord de la rivière.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "Maintenant, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "salades"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Maintenant, les salades sont chaudes.",
+   "lv": "CE1",
+   "A": "chaudes",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {A} hier.",
+   "c": "a",
+   "S": [
+    "mon",
+    "pied"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "Mon pied était large hier.",
+   "lv": "CE1",
+   "A": "large",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V} dans le village.",
+   "c": "i",
+   "S": [
+    "mon",
+    "élève"
+   ],
+   "V": "jouer",
+   "vf": "a joué",
+   "ex": "Pendant les vacances, mon élève a joué dans le village.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "des",
+    "bonnets"
+   ],
+   "V": "tomber",
+   "vf": "tombaient",
+   "ex": "Hier, des bonnets tombaient là-bas.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "D’abord, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "salades"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "D’abord, les salades étaient chaudes.",
+   "lv": "CE1",
+   "A": "chaudes"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "une",
+    "tomate"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Aujourd’hui, une tomate est fine.",
+   "lv": "CE1",
+   "A": "fine",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} toujours {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "ânes"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "Les ânes mangent toujours la tomate chaude.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "tomate",
+    "chaude"
+   ]
+  },
+  {
+   "t": "En ce moment, {S} {V} sur la table.",
+   "c": "i",
+   "S": [
+    "mon",
+    "biscuit"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "En ce moment, mon biscuit est sur la table.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} doucement.",
+   "c": "i",
+   "S": [
+    "mon",
+    "élève"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Mon élève est tombé doucement.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {A} demain.",
+   "c": "a",
+   "S": [
+    "des",
+    "salades"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Des salades seront blanches demain.",
+   "lv": "CE1",
+   "A": "blanches",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} {O} plus tard.",
+   "c": "t",
+   "S": [
+    "les",
+    "chèvres",
+    "blanches"
+   ],
+   "V": "manger",
+   "vf": "mangeront",
+   "ex": "Les chèvres blanches mangeront mon biscuit plus tard.",
+   "lv": "CE1",
+   "O": [
+    "mon",
+    "biscuit"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} au bord du chemin.",
+   "c": "i",
+   "S": [
+    "des",
+    "ânes"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Il y a longtemps, des ânes jouaient au bord du chemin.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps",
+   "p": 1
+  },
+  {
+   "t": "Hier soir, {S} {V} dehors.",
+   "c": "i",
+   "S": [
+    "les",
+    "chèvres"
+   ],
+   "V": "aller",
+   "vf": "allaient",
+   "ex": "Hier soir, les chèvres allaient dehors.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} vite.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres",
+    "blanches"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Des chèvres blanches jouent vite.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Vers la forêt, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "les",
+    "ânes"
+   ],
+   "V": "manger",
+   "vf": "mangent",
+   "ex": "Vers la forêt, les ânes mangent les salades blanches.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "salades",
+    "blanches"
+   ]
+  },
+  {
+   "t": "Devant la maison, {S} {V} {O} il y a longtemps.",
+   "c": "t",
+   "S": [
+    "mon",
+    "élève"
+   ],
+   "V": "dessiner",
+   "vf": "a dessiné",
+   "ex": "Devant la maison, mon élève a dessiné mon biscuit il y a longtemps.",
+   "lv": "CE1",
+   "O": [
+    "mon",
+    "biscuit"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} ici.",
+   "c": "i",
+   "S": [
+    "la",
+    "tomate"
+   ],
+   "V": "tomber",
+   "vf": "est tombée",
+   "ex": "La tomate est tombée ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Demain matin, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "mon",
+    "pied"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Demain matin, mon pied sera mouillé.",
+   "lv": "CE1",
+   "A": "mouillé",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} souvent avec soin.",
+   "c": "i",
+   "S": [
+    "mon",
+    "élève"
+   ],
+   "V": "sauter",
+   "vf": "saute",
+   "ex": "Mon élève saute souvent avec soin.",
+   "lv": "CE1"
+  },
+  {
+   "t": "L’année prochaine, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "shorts"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "L’année prochaine, les shorts seront courts.",
+   "lv": "CE1",
+   "A": "courts"
+  },
+  {
+   "t": "{S} {V} tout près.",
+   "c": "i",
+   "S": [
+    "mon",
+    "biscuit"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Mon biscuit tombe tout près.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} doucement.",
+   "c": "i",
+   "S": [
+    "les",
+    "colles",
+    "blanches"
+   ],
+   "V": "rouler",
+   "vf": "rouleront",
+   "ex": "Les colles blanches rouleront doucement.",
+   "lv": "CE1"
+  },
+  {
+   "t": "En ce moment, {S} {V} {O} tout près.",
+   "c": "t",
+   "S": [
+    "mon",
+    "élève"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "En ce moment, mon élève dessine mon pied tout près.",
+   "lv": "CE1",
+   "O": [
+    "mon",
+    "pied"
+   ],
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Après le goûter, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "des",
+    "colles"
+   ],
+   "V": "rouler",
+   "vf": "ont roulé",
+   "ex": "Après le goûter, des colles ont roulé là-bas.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Demain matin, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "mon",
+    "couloir"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Demain matin, mon couloir sera mouillé.",
+   "lv": "CE1",
+   "A": "mouillé",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "Maintenant, {S} {V} derrière le canapé.",
+   "c": "i",
+   "S": [
+    "des",
+    "colles",
+    "chaudes"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Maintenant, des colles chaudes tombent derrière le canapé.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "maintenant",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} vers la ville.",
+   "c": "i",
+   "S": [
+    "des",
+    "chèvres"
+   ],
+   "V": "jouer",
+   "vf": "joueront",
+   "ex": "Demain, des chèvres joueront vers la ville.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "Derrière la maison, {S} {V} demain.",
+   "c": "i",
+   "S": [
+    "des",
+    "cerfs"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Derrière la maison, des cerfs tomberont demain.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "{S} {V} doucement au marché.",
+   "c": "i",
+   "S": [
+    "un",
+    "âne"
+   ],
+   "V": "aller",
+   "vf": "est allé",
+   "ex": "Un âne est allé doucement au marché.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Parfois, {S} {V} au bord de la mer.",
+   "c": "i",
+   "S": [
+    "les",
+    "ânes"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Parfois, les ânes seront au bord de la mer.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V}.",
+   "c": "i",
+   "S": [
+    "un",
+    "train"
+   ],
+   "V": "rouler",
+   "vf": "roulera",
+   "ex": "Bientôt, un train roulera.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "bientôt"
+  },
+  {
+   "t": "Au fond du jardin, {S} {V} {O} souvent.",
+   "c": "t",
+   "S": [
+    "les",
+    "cerfs"
+   ],
+   "V": "regarder",
+   "vf": "regardent",
+   "ex": "Au fond du jardin, les cerfs regardent les fleurs souvent.",
+   "lv": "CE1",
+   "O": [
+    "les",
+    "fleurs"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} l’année prochaine.",
+   "c": "a",
+   "S": [
+    "le",
+    "pantalon"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Le pantalon sera court l’année prochaine.",
+   "lv": "CE1",
+   "A": "court"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V}.",
+   "c": "i",
+   "S": [
+    "des",
+    "cerfs"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "Pendant les vacances, des cerfs sautent.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "cartables"
+   ],
+   "V": "rouler",
+   "vf": "roulaient",
+   "ex": "Les cartables roulaient dans le train.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "train"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} en silence loin d’ici.",
+   "c": "i",
+   "S": [
+    "un",
+    "âne"
+   ],
+   "V": "jouer",
+   "vf": "jouera",
+   "ex": "Un âne jouera en silence loin d’ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} {O} au bord du lac.",
+   "c": "t",
+   "S": [
+    "des",
+    "familles"
+   ],
+   "V": "avoir",
+   "vf": "avaient",
+   "ex": "Hier, des familles avaient des ânes au bord du lac.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "ânes"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Plus tard, {S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "cartables"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Plus tard, les cartables tomberont sur les canapés.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "canapés"
+   ],
+   "pp": "sur",
+   "tps": "futur",
+   "tw": "plus tard",
+   "p": 1
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} ici.",
+   "c": "i",
+   "S": [
+    "un",
+    "train"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "Il y a longtemps, un train allait ici.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} ici.",
+   "c": "i",
+   "S": [
+    "les",
+    "cerfs"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "Les cerfs sautent ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "La semaine dernière, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "cartables"
+   ],
+   "V": "rouler",
+   "vf": "roulaient",
+   "ex": "La semaine dernière, les cartables roulaient.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "{S} {V} {O} plus tard.",
+   "c": "t",
+   "S": [
+    "une",
+    "chèvre",
+    "mouillée"
+   ],
+   "V": "avoir",
+   "vf": "aura",
+   "ex": "Une chèvre mouillée aura du pain plus tard.",
+   "lv": "CE1",
+   "O": [
+    "du",
+    "pain"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "{S} {V} {A} en ce moment.",
+   "c": "a",
+   "S": [
+    "les",
+    "maisons"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les maisons sont rondes en ce moment.",
+   "lv": "CE1",
+   "A": "rondes",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} vers {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "vélos",
+    "lourds"
+   ],
+   "V": "rouler",
+   "vf": "ont roulé",
+   "ex": "Des vélos lourds ont roulé vers les maisons.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "maisons"
+   ],
+   "pp": "vers",
+   "p": 1
+  },
+  {
+   "t": "La semaine dernière, {S} {V} {O} devant la maison.",
+   "c": "t",
+   "S": [
+    "un",
+    "enfant"
+   ],
+   "V": "dessiner",
+   "vf": "a dessiné",
+   "ex": "La semaine dernière, un enfant a dessiné des poires devant la maison.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "poires"
+   ],
+   "tps": "passé",
+   "tw": "la semaine dernière"
+  },
+  {
+   "t": "{S} {V} {A} hier soir.",
+   "c": "a",
+   "S": [
+    "la",
+    "gomme"
+   ],
+   "V": "être",
+   "vf": "était",
+   "ex": "La gomme était ronde hier soir.",
+   "lv": "CE1",
+   "A": "ronde",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "Hier soir, {S} {V} là-bas.",
+   "c": "i",
+   "S": [
+    "des",
+    "pantalons",
+    "larges"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Hier soir, des pantalons larges sont tombés là-bas.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir",
+   "p": 1
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} de {P}.",
+   "c": "i",
+   "S": [
+    "des",
+    "tartes"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "La semaine prochaine, des tartes tomberont de la fenêtre.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "fenêtre"
+   ],
+   "pp": "de",
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "À côté de la cabane, {S} {V} en silence.",
+   "c": "i",
+   "S": [
+    "le",
+    "gant"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "À côté de la cabane, le gant tombera en silence.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Demain matin, {S} {V} sur le pont.",
+   "c": "i",
+   "S": [
+    "les",
+    "bons",
+    "coqs"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Demain matin, les bons coqs sauteront sur le pont.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "trousse",
+    "ronde"
+   ],
+   "V": "rouler",
+   "vf": "roulera",
+   "ex": "Demain, la trousse ronde roulera sous la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sous",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "Plus tard, {S} {V} {O} derrière la gare.",
+   "c": "t",
+   "S": [
+    "des",
+    "coqs"
+   ],
+   "V": "trouver",
+   "vf": "trouveront",
+   "ex": "Plus tard, des coqs trouveront des pantalons larges derrière la gare.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pantalons",
+    "larges"
+   ],
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "{S} {V} au bord de la rivière.",
+   "c": "i",
+   "S": [
+    "des",
+    "ânes"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Des ânes seront au bord de la rivière.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} sur le tapis.",
+   "c": "t",
+   "S": [
+    "ma",
+    "mère"
+   ],
+   "V": "écrire",
+   "vf": "écrira",
+   "ex": "Ma mère écrira le livre sur le tapis.",
+   "lv": "CE1",
+   "O": [
+    "le",
+    "livre"
+   ]
+  },
+  {
+   "t": "{S} {V} {O} dans {P}.",
+   "c": "t",
+   "S": [
+    "des",
+    "classes"
+   ],
+   "V": "écrire",
+   "vf": "écrivaient",
+   "ex": "Des classes écrivaient des livres dans la classe.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "livres"
+   ],
+   "P": [
+    "la",
+    "classe"
+   ],
+   "pp": "dans"
+  },
+  {
+   "t": "Demain matin, {S} {V} au bord du lac.",
+   "c": "i",
+   "S": [
+    "des",
+    "écoles"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Demain matin, des écoles seront au bord du lac.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} demain matin.",
+   "c": "a",
+   "S": [
+    "la",
+    "douche"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "La douche sera chaude demain matin.",
+   "lv": "CE1",
+   "A": "chaude",
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} {A} demain.",
+   "c": "a",
+   "S": [
+    "la",
+    "banane"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "La banane sera chaude demain.",
+   "lv": "CE1",
+   "A": "chaude",
+   "tps": "futur",
+   "tw": "demain"
+  },
+  {
+   "t": "Pendant la récréation, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "poule",
+    "propre"
+   ],
+   "V": "trouver",
+   "vf": "a trouvé",
+   "ex": "Pendant la récréation, la poule propre a trouvé une banane.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "banane"
+   ]
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} {O} sur {P}.",
+   "c": "t",
+   "S": [
+    "des",
+    "biches",
+    "sales"
+   ],
+   "V": "avoir",
+   "vf": "ont",
+   "ex": "Aujourd’hui, des biches sales ont des pains ronds sur la table.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "pains",
+    "ronds"
+   ],
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sur",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "En ce moment, {S} {V} ensemble.",
+   "c": "i",
+   "S": [
+    "des",
+    "biches"
+   ],
+   "V": "sauter",
+   "vf": "sautent",
+   "ex": "En ce moment, des biches sautent ensemble.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} {A} hier.",
+   "c": "a",
+   "S": [
+    "les",
+    "compas"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Les compas étaient sales hier.",
+   "lv": "CE1",
+   "A": "sales",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Plus tard, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "pianos"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Plus tard, les pianos seront sales.",
+   "lv": "CE1",
+   "A": "sales",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Sur le toit, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "Sur le toit, les oiseaux ont joué.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} {A} pendant les vacances.",
+   "c": "a",
+   "S": [
+    "des",
+    "oiseaux"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Des oiseaux sont sales pendant les vacances.",
+   "lv": "CE1",
+   "A": "sales"
+  },
+  {
+   "t": "Plus tard, {S} {V} au bord de la rivière.",
+   "c": "i",
+   "S": [
+    "des",
+    "biches",
+    "sales"
+   ],
+   "V": "aller",
+   "vf": "iront",
+   "ex": "Plus tard, des biches sales iront au bord de la rivière.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "plus tard",
+   "p": 1
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} derrière la gare.",
+   "c": "i",
+   "S": [
+    "les",
+    "oiseaux",
+    "sales"
+   ],
+   "V": "aller",
+   "vf": "vont",
+   "ex": "Aujourd’hui, les oiseaux sales vont derrière la gare.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui",
+   "p": 1
+  },
+  {
+   "t": "Dans la nuit, {S} {V} ici.",
+   "c": "i",
+   "S": [
+    "une",
+    "bonne",
+    "vache"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "Dans la nuit, une bonne vache va ici.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "D’abord, {S} {V} à côté du lit.",
+   "c": "i",
+   "S": [
+    "la",
+    "bonne",
+    "chèvre"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "D’abord, la bonne chèvre va à côté du lit.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Ce matin, {S} {V} {O} devant l’arbre.",
+   "c": "t",
+   "S": [
+    "des",
+    "biches"
+   ],
+   "V": "regarder",
+   "vf": "ont regardé",
+   "ex": "Ce matin, des biches ont regardé la chèvre devant l’arbre.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "chèvre"
+   ]
+  },
+  {
+   "t": "Maintenant, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "bonne",
+    "vache"
+   ],
+   "V": "avoir",
+   "vf": "a",
+   "ex": "Maintenant, la bonne vache a des jouets.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "jouets"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "En ce moment, {S} {V}.",
+   "c": "i",
+   "S": [
+    "une",
+    "chèvre"
+   ],
+   "V": "jouer",
+   "vf": "joue",
+   "ex": "En ce moment, une chèvre joue.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "jouets"
+   ],
+   "V": "être",
+   "vf": "ont été",
+   "ex": "Dans la nuit, les jouets ont été sales.",
+   "lv": "CE1",
+   "A": "sales"
+  },
+  {
+   "t": "Loin du village, {S} {V} toujours.",
+   "c": "i",
+   "S": [
+    "des",
+    "biches"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Loin du village, des biches sauteront toujours.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} au bord de la mer.",
+   "c": "i",
+   "S": [
+    "des",
+    "oiseaux",
+    "sales"
+   ],
+   "V": "aller",
+   "vf": "vont",
+   "ex": "Aujourd’hui, des oiseaux sales vont au bord de la mer.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} à l’école.",
+   "c": "i",
+   "S": [
+    "une",
+    "bonne",
+    "vache"
+   ],
+   "V": "aller",
+   "vf": "va",
+   "ex": "Une bonne vache va à l’école.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} aujourd’hui !",
+   "c": "a",
+   "S": [
+    "les",
+    "cerfs"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les cerfs sont lourds aujourd’hui !",
+   "lv": "CE1",
+   "A": "lourds",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "Près du village, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "la",
+    "famille"
+   ],
+   "V": "donner",
+   "vf": "donne",
+   "ex": "Près du village, la famille donne des sacs.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "sacs"
+   ]
+  },
+  {
+   "t": "Après le goûter, {S} {V} {O} vite.",
+   "c": "t",
+   "S": [
+    "une",
+    "famille"
+   ],
+   "V": "donner",
+   "vf": "donnera",
+   "ex": "Après le goûter, une famille donnera des sacs vite.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "sacs"
+   ]
+  },
+  {
+   "t": "Plus tard, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "la",
+    "douche"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "Plus tard, la douche sera froide.",
+   "lv": "CE1",
+   "A": "froide",
+   "tps": "futur",
+   "tw": "plus tard"
+  },
+  {
+   "t": "Ensuite, {S} {V} dans {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "vélos"
+   ],
+   "V": "rouler",
+   "vf": "roulent",
+   "ex": "Ensuite, les vélos roulent dans la forêt.",
+   "lv": "CE2",
+   "P": [
+    "la",
+    "forêt"
+   ],
+   "pp": "dans",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "sacs"
+   ],
+   "V": "rouler",
+   "vf": "ont roulé",
+   "ex": "Les sacs ont roulé sous la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sous",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {A} il y a longtemps.",
+   "c": "a",
+   "S": [
+    "les",
+    "douches"
+   ],
+   "V": "être",
+   "vf": "étaient",
+   "ex": "Les douches étaient chaudes il y a longtemps.",
+   "lv": "CE1",
+   "A": "chaudes",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Hier, {S} {V} sur le canapé.",
+   "c": "i",
+   "S": [
+    "les",
+    "cochons",
+    "propres"
+   ],
+   "V": "jouer",
+   "vf": "ont joué",
+   "ex": "Hier, les cochons propres ont joué sur le canapé.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "des",
+    "cochons"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Dans la nuit, des cochons seront propres.",
+   "lv": "CE1",
+   "A": "propres"
+  },
+  {
+   "t": "{S} {V} lentement en ce moment.",
+   "c": "i",
+   "S": [
+    "les",
+    "classes",
+    "propres"
+   ],
+   "V": "jouer",
+   "vf": "jouent",
+   "ex": "Les classes propres jouent lentement en ce moment.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "{S} {V} dans le village.",
+   "c": "i",
+   "S": [
+    "les",
+    "cochons"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Les cochons sont tombés dans le village.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "les",
+    "cahiers"
+   ],
+   "V": "être",
+   "vf": "seront",
+   "ex": "Après le goûter, les cahiers seront propres.",
+   "lv": "CE1",
+   "A": "propres"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} sur la plage.",
+   "c": "i",
+   "S": [
+    "les",
+    "cahiers",
+    "propres"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "La semaine dernière, les cahiers propres sont tombés sur la plage.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} près de la gare.",
+   "c": "i",
+   "S": [
+    "des",
+    "cochons",
+    "propres"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "Des cochons propres jouaient près de la gare.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} {O} à côté de l’arbre.",
+   "c": "t",
+   "S": [
+    "la",
+    "famille"
+   ],
+   "V": "écrire",
+   "vf": "a écrit",
+   "ex": "La famille a écrit une histoire à côté de l’arbre.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "histoire"
+   ]
+  },
+  {
+   "t": "Ensuite, {S} {V} {O} sans bruit.",
+   "c": "t",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "écrire",
+   "vf": "écrivait",
+   "ex": "Ensuite, un ami écrivait un livre sans bruit.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "livre"
+   ]
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "un",
+    "piano"
+   ],
+   "V": "être",
+   "vf": "sera",
+   "ex": "La semaine prochaine, un piano sera sec.",
+   "lv": "CE1",
+   "A": "sec",
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O} loin de la maison.",
+   "c": "t",
+   "S": [
+    "des",
+    "classes"
+   ],
+   "V": "écrire",
+   "vf": "ont écrit",
+   "ex": "Il y a longtemps, des classes ont écrit des chansons loin de la maison.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "chansons"
+   ],
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} avec plaisir sur le pont.",
+   "c": "i",
+   "S": [
+    "une",
+    "araignée",
+    "bleue"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Une araignée bleue ira avec plaisir sur le pont.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Après le goûter, {S} {V} {O} à la maison.",
+   "c": "t",
+   "S": [
+    "des",
+    "garçons"
+   ],
+   "V": "écrire",
+   "vf": "écrivaient",
+   "ex": "Après le goûter, des garçons écrivaient la chanson à la maison.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "chanson"
+   ]
+  },
+  {
+   "t": "Dans la nuit, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "violons"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Dans la nuit, les violons tombent.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Ce matin, {S} {V} {O} à côté du lit.",
+   "c": "t",
+   "S": [
+    "une",
+    "élève"
+   ],
+   "V": "dessiner",
+   "vf": "dessinait",
+   "ex": "Ce matin, une élève dessinait des violons à côté du lit.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "violons"
+   ]
+  },
+  {
+   "t": "Ensuite, {S} {V} derrière la porte.",
+   "c": "i",
+   "S": [
+    "le",
+    "poussin"
+   ],
+   "V": "aller",
+   "vf": "allait",
+   "ex": "Ensuite, le poussin allait derrière la porte.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Maintenant, {S} {V} {O} sur le toit.",
+   "c": "t",
+   "S": [
+    "les",
+    "amis"
+   ],
+   "V": "raconter",
+   "vf": "racontent",
+   "ex": "Maintenant, les amis racontent des histoires sur le toit.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "histoires"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "violons"
+   ],
+   "V": "tomber",
+   "vf": "sont tombés",
+   "ex": "Les violons sont tombés sur les tables.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "tables"
+   ],
+   "pp": "sur",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} {O} à côté du parc.",
+   "c": "t",
+   "S": [
+    "une",
+    "araignée",
+    "bleue"
+   ],
+   "V": "trouver",
+   "vf": "a trouvé",
+   "ex": "Hier, une araignée bleue a trouvé une jupe à côté du parc.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "jupe"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} {O} derrière l’arbre.",
+   "c": "t",
+   "S": [
+    "la",
+    "mère"
+   ],
+   "V": "raconter",
+   "vf": "racontera",
+   "ex": "La mère racontera une histoire derrière l’arbre.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "histoire"
+   ]
+  },
+  {
+   "t": "{S} {V} devant {P}.",
+   "c": "i",
+   "S": [
+    "les",
+    "violons"
+   ],
+   "V": "tomber",
+   "vf": "tomberont",
+   "ex": "Les violons tomberont devant le piano.",
+   "lv": "CE1",
+   "P": [
+    "le",
+    "piano"
+   ],
+   "pp": "devant",
+   "p": 1
+  },
+  {
+   "t": "Demain matin, {S} {V} {O} sous le toit.",
+   "c": "t",
+   "S": [
+    "un",
+    "garçon"
+   ],
+   "V": "raconter",
+   "vf": "racontera",
+   "ex": "Demain matin, un garçon racontera une histoire sous le toit.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "histoire"
+   ],
+   "tps": "futur",
+   "tw": "demain matin"
+  },
+  {
+   "t": "{S} {V} {O} toujours loin de la gare.",
+   "c": "t",
+   "S": [
+    "l’",
+    "enfant"
+   ],
+   "V": "écrire",
+   "vf": "écrivait",
+   "ex": "L’enfant écrivait un livre toujours loin de la gare.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "livre"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} en silence.",
+   "c": "i",
+   "S": [
+    "un",
+    "sac"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Hier, un sac est tombé en silence.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "{S} {V} aujourd’hui.",
+   "c": "i",
+   "S": [
+    "la",
+    "jupe",
+    "bleue"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "La jupe bleue tombe aujourd’hui.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "La semaine prochaine, {S} {V} {O} sans bruit.",
+   "c": "t",
+   "S": [
+    "un",
+    "élève"
+   ],
+   "V": "raconter",
+   "vf": "racontera",
+   "ex": "La semaine prochaine, un élève racontera des histoires sans bruit.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "histoires"
+   ],
+   "tps": "futur",
+   "tw": "la semaine prochaine"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} {O} vers la rivière.",
+   "c": "t",
+   "S": [
+    "des",
+    "mères"
+   ],
+   "V": "écrire",
+   "vf": "écrivent",
+   "ex": "Dans la nuit, des mères écrivent des chansons vers la rivière.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "chansons"
+   ]
+  },
+  {
+   "t": "{S} {V} {A} aujourd’hui.",
+   "c": "a",
+   "S": [
+    "les",
+    "carnets"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les carnets sont larges aujourd’hui.",
+   "lv": "CE1",
+   "A": "larges",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} sous {P}.",
+   "c": "i",
+   "S": [
+    "la",
+    "chaussette",
+    "bleue"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "La chaussette bleue tombera sous la table.",
+   "lv": "CE1",
+   "P": [
+    "la",
+    "table"
+   ],
+   "pp": "sous",
+   "p": 1
+  },
+  {
+   "t": "Demain, {S} {V} sur {P}.",
+   "c": "i",
+   "S": [
+    "une",
+    "fleur",
+    "bleue"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Demain, une fleur bleue tombera sur les tables.",
+   "lv": "CE1",
+   "P": [
+    "les",
+    "tables"
+   ],
+   "pp": "sur",
+   "tps": "futur",
+   "tw": "demain",
+   "p": 1
+  },
+  {
+   "t": "En ce moment, {S} {V} {O} à {P}.",
+   "c": "t",
+   "S": [
+    "un",
+    "enfant"
+   ],
+   "V": "donner",
+   "vf": "donne",
+   "ex": "En ce moment, un enfant donne la fleur à l’araignée.",
+   "lv": "CE1",
+   "O": [
+    "la",
+    "fleur"
+   ],
+   "P": [
+    "l’",
+    "araignée"
+   ],
+   "pp": "à",
+   "tps": "présent",
+   "tw": "en ce moment"
+  },
+  {
+   "t": "Il y a longtemps, {S} {V} {O} à {P}.",
+   "c": "t",
+   "S": [
+    "le",
+    "poussin"
+   ],
+   "V": "donner",
+   "vf": "a donné",
+   "ex": "Il y a longtemps, le poussin a donné une fleur bleue à la poule.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "fleur",
+    "bleue"
+   ],
+   "P": [
+    "la",
+    "poule"
+   ],
+   "pp": "à",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "{S} {V} {A} maintenant.",
+   "c": "a",
+   "S": [
+    "les",
+    "tables"
+   ],
+   "V": "être",
+   "vf": "sont",
+   "ex": "Les tables sont sèches maintenant.",
+   "lv": "CE1",
+   "A": "sèches",
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "{S} {V} {A}.",
+   "c": "a",
+   "S": [
+    "le",
+    "sac"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Le sac est sec.",
+   "lv": "CE1",
+   "A": "sec"
+  },
+  {
+   "t": "Dans la nuit, {S} {V} sous le bureau.",
+   "c": "i",
+   "S": [
+    "le",
+    "stylo",
+    "sec"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Dans la nuit, le stylo sec est tombé sous le bureau.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} hier soir.",
+   "c": "i",
+   "S": [
+    "la",
+    "chaussette",
+    "bleue"
+   ],
+   "V": "tomber",
+   "vf": "est tombée",
+   "ex": "La chaussette bleue est tombée hier soir.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier soir"
+  },
+  {
+   "t": "{S} {V} {A}, aujourd’hui.",
+   "c": "a",
+   "S": [
+    "mon",
+    "araignée"
+   ],
+   "V": "être",
+   "vf": "est",
+   "ex": "Mon araignée est bleue, aujourd’hui.",
+   "lv": "CE1",
+   "A": "bleue",
+   "tps": "présent",
+   "tw": "aujourd’hui"
+  },
+  {
+   "t": "{S} {V} {O} maintenant.",
+   "c": "t",
+   "S": [
+    "un",
+    "poussin"
+   ],
+   "V": "chercher",
+   "vf": "cherche",
+   "ex": "Un poussin cherche une araignée maintenant.",
+   "lv": "CE1",
+   "O": [
+    "une",
+    "araignée"
+   ],
+   "tps": "présent",
+   "tw": "maintenant"
+  },
+  {
+   "t": "La semaine dernière, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "le",
+    "stylo"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "La semaine dernière, le stylo tombait loin d’ici.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "la semaine dernière",
+   "p": 1
+  },
+  {
+   "t": "Bientôt, {S} {V} loin d’ici.",
+   "c": "i",
+   "S": [
+    "le",
+    "poussin"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Bientôt, le poussin ira loin d’ici.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "bientôt",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} partout.",
+   "c": "i",
+   "S": [
+    "un",
+    "stylo",
+    "sec"
+   ],
+   "V": "tomber",
+   "vf": "tombera",
+   "ex": "Un stylo sec tombera partout.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "Demain matin, {S} {V} dans la forêt.",
+   "c": "i",
+   "S": [
+    "une",
+    "araignée",
+    "bleue"
+   ],
+   "V": "aller",
+   "vf": "ira",
+   "ex": "Demain matin, une araignée bleue ira dans la forêt.",
+   "lv": "CE1",
+   "tps": "futur",
+   "tw": "demain matin",
+   "p": 1
+  },
+  {
+   "t": "Aujourd’hui, {S} {V} loin de la maison.",
+   "c": "i",
+   "S": [
+    "mon",
+    "enfant"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Aujourd’hui, mon enfant tombe loin de la maison.",
+   "lv": "CE1",
+   "tps": "présent",
+   "tw": "aujourd’hui",
+   "p": 1
+  },
+  {
+   "t": "À côté de l’école, {S} {V} {O}.",
+   "c": "t",
+   "S": [
+    "mon",
+    "garçon"
+   ],
+   "V": "dessiner",
+   "vf": "a dessiné",
+   "ex": "À côté de l’école, mon garçon a dessiné des classeurs.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "classeurs"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} {O} au bord du chemin.",
+   "c": "t",
+   "S": [
+    "mon",
+    "garçon"
+   ],
+   "V": "dessiner",
+   "vf": "dessinait",
+   "ex": "Hier, mon garçon dessinait des poires fines au bord du chemin.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "poires",
+    "fines"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Parfois, {S} {V} {O} dehors.",
+   "c": "t",
+   "S": [
+    "mon",
+    "élève"
+   ],
+   "V": "dessiner",
+   "vf": "dessine",
+   "ex": "Parfois, mon élève dessine des cartables dehors.",
+   "lv": "CE1",
+   "O": [
+    "des",
+    "cartables"
+   ]
+  },
+  {
+   "t": "Hier, {S} {V} sous la table.",
+   "c": "i",
+   "S": [
+    "mon",
+    "gant",
+    "bleu"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Hier, mon gant bleu est tombé sous la table.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "Hier, {S} {V} derrière le canapé.",
+   "c": "i",
+   "S": [
+    "mon",
+    "crayon",
+    "noir"
+   ],
+   "V": "tomber",
+   "vf": "est tombé",
+   "ex": "Hier, mon crayon noir est tombé derrière le canapé.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "hier",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} vite.",
+   "c": "i",
+   "S": [
+    "les",
+    "chaussettes",
+    "fines"
+   ],
+   "V": "tomber",
+   "vf": "tombent",
+   "ex": "Les chaussettes fines tombent vite.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Dans la nuit, {S} {V}.",
+   "c": "i",
+   "S": [
+    "mon",
+    "crayon"
+   ],
+   "V": "tomber",
+   "vf": "tombe",
+   "ex": "Dans la nuit, mon crayon tombe.",
+   "lv": "CE1"
+  },
+  {
+   "t": "À côté du lit, {S} {V} il y a longtemps.",
+   "c": "i",
+   "S": [
+    "les",
+    "abeilles"
+   ],
+   "V": "jouer",
+   "vf": "jouaient",
+   "ex": "À côté du lit, les abeilles jouaient il y a longtemps.",
+   "lv": "CE1",
+   "tps": "passé",
+   "tw": "il y a longtemps"
+  },
+  {
+   "t": "Après le goûter, {S} {V} partout.",
+   "c": "i",
+   "S": [
+    "un",
+    "chat"
+   ],
+   "V": "tomber",
+   "vf": "tombait",
+   "ex": "Après le goûter, un chat tombait partout.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} toujours.",
+   "c": "i",
+   "S": [
+    "des",
+    "abeilles",
+    "minces"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Des abeilles minces sauteront toujours.",
+   "lv": "CE1"
+  },
+  {
+   "t": "Vers le village, {S} {V} {O} hier.",
+   "c": "t",
+   "S": [
+    "un",
+    "ami"
+   ],
+   "V": "dessiner",
+   "vf": "dessinait",
+   "ex": "Vers le village, un ami dessinait un chat hier.",
+   "lv": "CE1",
+   "O": [
+    "un",
+    "chat"
+   ],
+   "tps": "passé",
+   "tw": "hier"
+  },
+  {
+   "t": "Pendant les vacances, {S} {V}.",
+   "c": "i",
+   "S": [
+    "les",
+    "abeilles",
+    "noires"
+   ],
+   "V": "sauter",
+   "vf": "sauteront",
+   "ex": "Pendant les vacances, les abeilles noires sauteront.",
+   "lv": "CE1"
+  },
+  {
+   "t": "{S} {V} en silence vers la porte.",
+   "c": "i",
+   "S": [
+    "les",
+    "poussins",
+    "minces"
+   ],
+   "V": "aller",
+   "vf": "allaient",
+   "ex": "Les poussins minces allaient en silence vers la porte.",
+   "lv": "CE1",
+   "p": 1
+  },
+  {
+   "t": "{S} {V} ensemble à côté du jardin.",
+   "c": "i",
+   "S": [
+    "des",
+    "abeilles",
+    "minces"
+   ],
+   "V": "tomber",
+   "vf": "tombaient",
+   "ex": "Des abeilles minces tombaient ensemble à côté du jardin.",
+   "lv": "CE1",
+   "p": 1
+  }
+ ],
+ "refusees": [
+  {
+   "ex": "Demain, nos rayés chanteront nos chansons là-bas."
+  },
+  {
+   "ex": "Les violons pointus roulent vers la ville."
+  },
+  {
+   "ex": "Sous le canapé, le feutre roulera en silence."
+  },
+  {
+   "ex": "Après le goûter, les cahiers rouleront à la plage."
+  },
+  {
+   "ex": "Maintenant, des cahiers roulent tout près."
+  },
+  {
+   "ex": "Les cahiers roulent en silence."
+  },
+  {
+   "ex": "Plus tard, des drôles porteront un escalier lentement."
+  },
+  {
+   "ex": "Les drôles allaient vite dans le lac."
+  },
+  {
+   "ex": "Des drôles portent un escalier doucement derrière la maison."
+  },
+  {
+   "ex": "Après le goûter, les drôles sautaient vite."
+  },
+  {
+   "ex": "Hier, les moutons ont porté un escalier."
+  },
+  {
+   "ex": "Vers la gare, des moutons portaient un escalier il y a longtemps."
+  },
+  {
+   "ex": "Hier soir, le dossier a roulé dans les villes."
+  },
+  {
+   "ex": "Hier, le cartable roulait vers les villes."
+  },
+  {
+   "ex": "Ce matin, une tarte ronde tombera près de la gare."
+  },
+  {
+   "ex": "Le cochon a regardé les oreilles toujours sur le toit."
+  },
+  {
+   "ex": "Pendant la récréation, une enfant rouge a le ballon propre à côté du lit."
+  },
+  {
+   "ex": "Le canapé propre roule dans la ville."
+  },
+  {
+   "ex": "Demain matin, un sucre sera rouge."
+  },
+  {
+   "ex": "Au bord de la mer, un canapé propre tombera plus tard."
+  },
+  {
+   "ex": "Un canapé rouge roulera tout près."
+  },
+  {
+   "ex": "Dans l’avion, les carnets rouges roulent lentement."
+  },
+  {
+   "ex": "Un canapé rouge roule sur la table."
+  },
+  {
+   "ex": "Le sucre rouge est tombé parfois sous la table."
+  },
+  {
+   "ex": "Hier soir, le feutre roulait devant l’école."
+  },
+  {
+   "ex": "Des cahiers rouges roulaient sous le canapé."
+  },
+  {
+   "ex": "Dans la nuit, le canapé propre roulera."
+  },
+  {
+   "ex": "Des cahiers seront pointus la semaine prochaine."
+  },
+  {
+   "ex": "Pendant les vacances, des chaussures tombaient."
+  },
+  {
+   "ex": "Nos lapins ont eu la règle pointue sans bruit."
+  },
+  {
+   "ex": "D’abord, le pantalon était pointu."
+  },
+  {
+   "ex": "Pendant la récréation, la robe tombait partout."
+  },
+  {
+   "ex": "Aujourd’hui, des cabanes sont plates."
+  },
+  {
+   "ex": "Ensuite, la maison était plate."
+  },
+  {
+   "ex": "Maintenant, une classe forte dessine une tomate noire là-bas."
+  },
+  {
+   "ex": "Demain, une trousse noire roulera vers la maison."
+  },
+  {
+   "ex": "Une tomate plate tombera sous les canapés."
+  },
+  {
+   "ex": "Dans la nuit, les classes plates sautent ensemble."
+  },
+  {
+   "ex": "Des carnets rouleront dans la maison."
+  },
+  {
+   "ex": "D’abord, les gommes froides tomberont."
+  },
+  {
+   "ex": "Bientôt, les gommes froides rouleront devant la fenêtre."
+  },
+  {
+   "ex": "La semaine dernière, les gommes froides ont roulé en silence."
+  },
+  {
+   "ex": "Une oreille sera courte bientôt."
+  },
+  {
+   "ex": "Des gommes seront froides pendant les vacances."
+  },
+  {
+   "ex": "Les livres ont roulé lentement hier soir."
+  },
+  {
+   "ex": "Les jupes étaient chaudes la semaine dernière."
+  },
+  {
+   "ex": "Dans la nuit, des livres roulent vite."
+  },
+  {
+   "ex": "Ce matin, les livres roulent vite."
+  },
+  {
+   "ex": "Pendant les vacances, les jupes chaudes étaient loin d’ici."
+  },
+  {
+   "ex": "Il y a longtemps, des amis dessinaient une armoire froide devant l’armoire."
+  },
+  {
+   "ex": "Une voiture froide est tombée il y a longtemps."
+  },
+  {
+   "ex": "Pendant la récréation, la famille regarde une armoire noire loin de la montagne."
+  },
+  {
+   "ex": "La classe froide a dessiné des pommes au fond du couloir."
+  },
+  {
+   "ex": "Hier soir, un cochon a fait un stylo court là-bas."
+  },
+  {
+   "ex": "Le cochon fera un escalier court bientôt."
+  },
+  {
+   "ex": "Maintenant, un cochon fait des trousses épaisses dehors."
+  },
+  {
+   "ex": "En ce moment, un garçon regarde les règles froides loin d’ici."
+  },
+  {
+   "ex": "Pendant la récréation, le garçon mouillé regardera une histoire devant l’école."
+  },
+  {
+   "ex": "Pendant les vacances, les tables tomberont sur le toit."
+  },
+  {
+   "ex": "D’abord, des tables tomberont derrière la porte."
+  },
+  {
+   "ex": "Les mères feront un stylo mince toujours derrière la gare."
+  },
+  {
+   "ex": "Les mères ont regardé ma douche là-bas."
+  },
+  {
+   "ex": "Hier, le train court tombait tout près."
+  },
+  {
+   "ex": "D’abord, un tigre trouve ma douche pointue."
+  },
+  {
+   "ex": "Maintenant, ma douche pointue tombe."
+  },
+  {
+   "ex": "Demain, le coq fera ma douche vers la ville."
+  },
+  {
+   "ex": "Parfois, des oiseaux ont fait ma douche pointue tout près."
+  },
+  {
+   "ex": "Bientôt, le tigre regardera ma douche pointue là-bas."
+  },
+  {
+   "ex": "Demain, des garçons feront ma flûte pointue avec plaisir."
+  },
+  {
+   "ex": "Demain, le tigre fera ma flûte pointue dehors."
+  },
+  {
+   "ex": "Un tigre trouvait ma douche loin de la ville."
+  },
+  {
+   "ex": "Ma douche est tombée toujours dehors."
+  },
+  {
+   "ex": "Ce matin, les chèvres ont regardé ma douche près de la ville."
+  },
+  {
+   "ex": "Dans la nuit, les familles ont donné ma douche pointue."
+  },
+  {
+   "ex": "En ce moment, un coq tombe sous le tapis."
+  },
+  {
+   "ex": "Parfois, les mères cherchaient ma douche à la maison."
+  },
+  {
+   "ex": "Bientôt, des oiseaux feront des gommes en silence."
+  },
+  {
+   "ex": "Le train court est allé à côté de la porte."
+  },
+  {
+   "ex": "Demain, les familles feront ma flûte pointue lentement."
+  },
+  {
+   "ex": "Les familles ont donné les oiseaux ensemble vers la maison."
+  },
+  {
+   "ex": "Pendant la récréation, les mères donnent ma douche pointue là-bas."
+  },
+  {
+   "ex": "Demain matin, des familles regarderont ma flûte partout."
+  },
+  {
+   "ex": "Pendant les vacances, des chèvres tomberont devant la porte."
+  },
+  {
+   "ex": "Ma douche tombait toujours."
+  },
+  {
+   "ex": "Demain matin, une araignée cherchera ma douche pointue vers la mer."
+  },
+  {
+   "ex": "Dans la nuit, ma douche pointue est tombée partout."
+  },
+  {
+   "ex": "Hier soir, des mères faisaient des gommes loin d’ici."
+  },
+  {
+   "ex": "Ma douche tombait doucement sur le toit."
+  },
+  {
+   "ex": "Des écoles sont mouillées pendant les vacances."
+  },
+  {
+   "ex": "Ensuite, des livres rouleront."
+  },
+  {
+   "ex": "La semaine dernière, le dossier était pointu."
+  },
+  {
+   "ex": "Sous la chaise, les familles sont tombées hier."
+  },
+  {
+   "ex": "Des agendas pointus ont roulé vers la porte."
+  },
+  {
+   "ex": "Pendant les vacances, les agendas pointus roulent."
+  },
+  {
+   "ex": "Bientôt, des agendas pointus rouleront."
+  },
+  {
+   "ex": "Demain, des lapins feront des carottes noires ensemble."
+  },
+  {
+   "ex": "Bientôt, des dossiers rouleront."
+  },
+  {
+   "ex": "Une table roule sur le canapé."
+  },
+  {
+   "ex": "Un meuble a roulé sous la table."
+  },
+  {
+   "ex": "Le poussin avait les robes lentement dans la cour."
+  },
+  {
+   "ex": "Hier, les violons ont roulé."
+  },
+  {
+   "ex": "Hier, le soleil était pointu."
+  },
+  {
+   "ex": "Il y a longtemps, le meuble roulait au bord du lac."
+  },
+  {
+   "ex": "Sur le tapis, les livres roulent toujours."
+  },
+  {
+   "ex": "Des livres ont roulé pendant les vacances."
+  },
+  {
+   "ex": "Des tables rouleront souvent sur le pont."
+  },
+  {
+   "ex": "Pendant les vacances, les tables seront pointues."
+  },
+  {
+   "ex": "Des classeurs seront pointus la semaine prochaine."
+  },
+  {
+   "ex": "Les tables pointues tomberont doucement la semaine prochaine."
+  },
+  {
+   "ex": "La semaine dernière, les colles blanches roulaient vite."
+  },
+  {
+   "ex": "Demain, les ânes feront les shorts sur l’escalier."
+  },
+  {
+   "ex": "La semaine prochaine, les colles rouleront vite."
+  },
+  {
+   "ex": "La semaine prochaine, des shorts tomberont dans le couloir."
+  },
+  {
+   "ex": "Ce matin, mon pied sera sur le pont."
+  },
+  {
+   "ex": "Hier, les chèvres regardaient les armoires chaudes loin d’ici."
+  },
+  {
+   "ex": "Après le goûter, le train est sous le lit."
+  },
+  {
+   "ex": "Hier soir, un train a roulé sur le canapé."
+  },
+  {
+   "ex": "Ce matin, le train roulait au parc."
+  },
+  {
+   "ex": "Ensuite, les armoires sont chaudes."
+  },
+  {
+   "ex": "Plus tard, les ânes sauteront dans les armoires."
+  },
+  {
+   "ex": "Pendant la récréation, la chèvre mouillée a eu le pain sec sous le canapé."
+  },
+  {
+   "ex": "Sur la plage, les robes larges tomberont pendant la récréation."
+  },
+  {
+   "ex": "Dans le parc, le dossier roulera."
+  },
+  {
+   "ex": "Des maisons étaient vite à côté de l’armoire."
+  },
+  {
+   "ex": "Une poule propre a eu la règle chaude toujours."
+  },
+  {
+   "ex": "Plus tard, des flûtes rouleront."
+  },
+  {
+   "ex": "La semaine dernière, un piano propre roulait ici."
+  },
+  {
+   "ex": "Aujourd’hui, des biches ont des compas doucement."
+  },
+  {
+   "ex": "Après le goûter, les flûtes chaudes roulaient à côté de la maison."
+  },
+  {
+   "ex": "Des classes sautaient avec une élève."
+  },
+  {
+   "ex": "Sur le canapé, les classes propres ont sauté."
+  },
+  {
+   "ex": "Des classes propres ont sauté ensemble."
+  },
+  {
+   "ex": "Plus tard, les meubles tomberont sur les tables."
+  },
+  {
+   "ex": "Plus tard, la jupe bleue tombera sous le tapis."
+  },
+  {
+   "ex": "Les tables ont été chaudes pendant la récréation."
+  },
+  {
+   "ex": "Aujourd’hui, les abeilles sautent derrière le canapé."
+  }
+ ],
+ "ajouts": []
+}
